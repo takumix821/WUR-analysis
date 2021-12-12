@@ -1,0 +1,348 @@
+---
+title: "World University Ranking"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(kableExtra)
+```
+
+QS World University Rankings and THE World University Rankings are two worldwide institutes offer rankings of universities around the world for students to compare. The rankings are hold annually, based on information each university offers and surveys held by these 2 institutes.
+
+However, sometimes the number of FTE students offered by the same university to different institutes seems to be different.
+
+This article organized data of QS World University Rankings and THE World University Rankings and find if there is any solution to transfer the students number data and use the transfer data to detect cheating.
+
+```{r include=FALSE}
+# QS World University Rankings 2022
+qs = read.csv("..\\..\\QS\\qs_total_2022_不重複.csv")[,2:15]
+qs$Total.students = as.numeric(gsub(",", "", qs$Total.students))
+qs$International.students = as.numeric(gsub(",", "", qs$International.students))
+qs$Total.faculty.staff = as.numeric(gsub(",", "", qs$Total.faculty.staff))
+qs$Int.l.staff = as.numeric(qs$Int.l.staff)
+qs$Domestic.staff = as.numeric(qs$Domestic.staff)
+qs$PG.students = as.numeric(gsub("%", "", qs$PG.students))*0.01
+qs$UG.students = as.numeric(gsub("%", "", qs$UG.students))*0.01
+qs$PG.students.1 = as.numeric(gsub("%", "", qs$PG.students.1))*0.01
+qs$UG.students.1 = as.numeric(gsub("%", "", qs$UG.students.1))*0.01
+colnames(qs) = c('University', 'Total.students',	'PG',	'UG',	'Int.l.students',	'Int.l.PG', 'Int.l.UG', 'Total.staff',	'Int.l.staff',	'Domestic.staff',	'Status',	'Research.Output',	'Size',	'rank')
+```
+
+```{r include=FALSE}
+kable_styling(kable(qs[1:5,]))
+```
+
+```{r include=FALSE}
+# THE World University Rankings 2022
+the = read.csv("..\\..\\THE\\the_total_2022_不重複.csv")[,2:7]
+the$Total.Students = as.numeric(gsub(",", "", the$Total.Students))
+the$student.staff.ratio = as.numeric(the$student.staff.ratio)
+the$pc.of.int.l.students = as.numeric(gsub("%", "", the$pc.of.int.l.students))*0.01
+for (i in 1:length(the$female.male.ratio)){
+  if (grepl(":", the$female.male.ratio[i])){
+    the$female.male.ratio[i] = round(as.numeric(strsplit(the$female.male.ratio[i], ":")[[1]][1])/as.numeric(strsplit(the$female.male.ratio[i], ":")[[1]][2]),2)
+  }
+}
+the = the[,c(2,3,4,5,6,1)]
+colnames(the) = c('University', 'Total.Students', 'student.staff.ratio', 'Int.l.students.ratio',	'female.male.ratio', 'rank')
+```
+
+```{r include=FALSE}
+kable_styling(kable(the[1:5,]))
+```
+
+### Merge ranking data
+Merging two table and keep columns for the number of students.
+```{r merge, include=FALSE}
+m = merge(the, qs, by.x = "University", by.y = "University")
+
+m$continent = rep("", dim(m)[1])
+
+oceania = read.csv("..\\..\\continent\\oceania.csv")
+north_america = read.csv("..\\..\\continent\\north_america.csv")
+latin_america = read.csv("..\\..\\continent\\latin_america.csv")
+europe = read.csv("..\\..\\continent\\europe.csv")
+asia = read.csv("..\\..\\continent\\asia.csv")
+africa = read.csv("..\\..\\continent\\africa.csv")
+
+for (i in 1:dim(m)[1]){
+  if (sum(m$University[i] == oceania) > 0){
+    m$continent[i] = "oceania"
+  }
+  if (sum(m$University[i] == north_america) > 0){
+    m$continent[i] = "north_america"
+  }
+  if (sum(m$University[i] == latin_america) > 0){
+    m$continent[i] = "latin_america"
+  }
+  if (sum(m$University[i] == europe) > 0){
+    m$continent[i] = "europe"
+  }
+  if (sum(m$University[i] == asia) > 0){
+    m$continent[i] = "asia"
+  }
+  if (sum(m$University[i] == africa) > 0){
+    m$continent[i] = "africa"
+  }
+}
+
+m = subset(m, select = c(University, Total.students, Total.Students, continent))
+colnames(m) = c("University", "qs_students", "the_students", "continent")
+m$diff = m$qs_students - m$the_students
+m$pdiff = round(m$diff/((m$qs_students +　m$the_students)/2),5)
+
+continent = c("oceania", "north_america", "latin_america",
+              "europe", "asia", "africa")
+```
+
+'diff' means difference between number of students offered by QS and THE (qs - the).
+
+'pdiff' means the percentage diff account for average number of students.
+```{r echo=FALSE}
+scroll_box(kable_styling(kable(m)), height = '200px')
+```
+
+```{r include=FALSE}
+# calculate outliers
+meandif = mean(m$diff)
+meanpdif = mean(m$pdiff)
+stddif = sd(m$diff)
+stdpdif = sd(m$pdiff)
+
+m_outlier = m[(m$diff > meandif + 1.5*stddif) |
+                (m$diff < meandif - 1.5*stddif) |
+                (m$pdiff > meanpdif + 1.5*stdpdif) |
+                (m$pdiff < meanpdif - 1.5*stdpdif),]
+m_no_outlier = m[!((m$diff > meandif + 1.5*stddif) |
+                (m$diff < meandif - 1.5*stddif) |
+                (m$pdiff > meanpdif + 1.5*stdpdif) |
+                (m$pdiff < meanpdif - 1.5*stdpdif)),]
+
+for (i in 1:length(m$pdiff)){
+  if (((m$diff[i] > meandif + 1.5*stddif) |
+                (m$diff[i] < meandif - 1.5*stddif) |
+                (m$pdiff[i] > meanpdif + 1.5*stdpdif) |
+                (m$pdiff[i] < meanpdif - 1.5*stdpdif)) & m$diff[i] > 0){
+  m$outlier[i] = "outlier & student qs > the"
+  }
+  else if (((m$diff[i] > meandif + 1.5*stddif) |
+                (m$diff[i] < meandif - 1.5*stddif) |
+                (m$pdiff[i] > meanpdif + 1.5*stdpdif) |
+                (m$pdiff[i] < meanpdif - 1.5*stdpdif)) & m$diff[i] <= 0){
+    m$outlier[i] = "outlier & student qs < the"
+  }
+else{
+  m$outlier[i] = "not outlier"
+}
+}
+```
+
+### Outlier
+Outlier is defined by diff and pdiff, next plot shows number of outlier in each continent.
+
+```{r fig.align = "center", fig.height = 4, fig.width = 8, echo=FALSE}
+library(ggplot2)
+ggplot(data = m[m$continent != '',], aes(x = continent, y = 1, fill = outlier)) + geom_bar(stat = "identity")
+
+```
+
+#### Outliers in different continents
+```{r echo=FALSE}
+
+for (i in 1:length(continent)){
+  se <- function(x) sqrt(var(x)/length(x))
+  cat('\n---',continent[i],'---\n')
+  cat('Number of university: ',
+  sum(m$continent == continent[i]),'\n',
+  'Number of outlier: ',
+  sum(m_outlier$continent == continent[i]),'\n',
+  'percentage of outlier in ',continent[i],': ',
+  round(sum(m_outlier$continent == continent[i])/sum(m$continent == continent[i]), 2),
+  sep = '')
+}
+```
+
+### Box plot of 'diff' in different continents
+Use box plot to represent if the difference of number of student between QS and THE is various.
+
+To prevent misinterpretation caused by extreme value, this box plot is without outlier (by 'diff' and 'pdiff').
+
+```{r fig.align = "center", fig.height = 4, fig.width = 8, echo=FALSE}
+ggplot(m_no_outlier[m_no_outlier$continent != '',], aes(x = continent, y = diff, color = continent)) + geom_boxplot()
+```
+
+
+#### Test including outlier
+To test if 'diff' in different continents are significantly different, we can test if 'diff' in different group is different by anova test.
+Test outcome is shown below.
+
+```{r echo=FALSE}
+aov.m = aov(diff ~ continent, data = m)
+summary(aov.m)
+```
+
+
+#### Excluding outlier
+We can also test excluding outlier.
+Test outcome is shown below.
+
+```{r echo=FALSE}
+aov.m = aov(diff ~ continent, data = m_no_outlier)
+summary(aov.m)
+```
+
+#### 'diff' in different continents
+```{r echo=FALSE}
+
+for (i in 1:length(continent)){
+  se <- function(x) sqrt(var(x)/length(x))
+  cat('\n---',continent[i],'---\n')
+  cat('Number of university: ',
+  sum(m$continent == continent[i]),'\n',
+  'Mean of "diff": ',
+  mean(m$diff[m$continent == continent[i]]),'\n',
+  ifelse(mean(m$diff[m$continent == continent[i]]) > 0, 'Number of students of qs > the',ifelse(mean(m$diff[m$continent == continent[i]]) < 0,'Number of students of qs < the','Number of students of qs = the')),'\n',
+  'se of "diff": ',
+  se(m$diff[m$continent == continent[i]]),'\n',
+  'p-value of t test if diff of ',continent[i], ' = 0: ',
+  round(t.test(m_no_outlier[m_no_outlier$continent == continent[i],]$diff, mu = 0)$p.value, 4), ifelse(t.test(m_no_outlier[m_no_outlier$continent == continent[i],]$diff, mu = 0)$p.value < 0.1, '*', ''),'\n',
+  'p-value of t test if pdiff of ',continent[i], ' = 0: ',
+  round(t.test(m_no_outlier[m_no_outlier$continent == continent[i],]$pdiff, mu = 0)$p.value, 4), ifelse(t.test(m_no_outlier[m_no_outlier$continent == continent[i],]$pdiff, mu = 0)$p.value < 0.1, '*', ''),
+  sep = '')
+}
+```
+
+
+
+### Transform
+To check if the original data is fake or not without accessing raw data, transforming the number of students offered by 2 institutes and submitting to the 3rd party is an ideal approach.
+```{r include=FALSE}
+### qs
+qs = read.csv("D:\\02統碩\\110上\\QS_THE\\QS\\qs_total_2022_不重複.csv")[,2:15]
+qs = subset(qs, select = c(University, Total.students, rank))
+
+# qs 數字格式
+qs$Total.students = as.numeric(gsub(",", "", qs$Total.students))
+
+### the
+the = read.csv("D:\\02統碩\\110上\\QS_THE\\THE\\the_total_2022_不重複.csv")[,2:7]
+the = subset(the, select = c(University, Total.Students, rank))
+
+# the 數字格式
+the$Total.Students = as.numeric(gsub(",", "", the$Total.Students))
+
+# qs z
+qsmean = mean(qs$Total.students)
+qsstd = sd(qs$Total.students)
+
+qs$z.students = (qs$Total.students - qsmean)/qsstd
+
+# the z
+themean = mean(the$Total.Students)
+thestd = sd(the$Total.Students)
+
+the$z.students = (the$Total.Students - themean)/thestd
+
+# qs rank
+qs$ranking.students = rank(qs$Total.students)
+
+# the rank
+the$ranking.students = rank(the$Total.Students)
+
+# merge
+m = merge(the, qs, by.x = "University", by.y = "University")
+m = subset(m, select = c(University, Total.students, z.students.y, ranking.students.y, rank.y, Total.Students, z.students.x, ranking.students.x, rank.x))
+colnames(m) = c("University", "qs_students", "qs_z", "qs_ranking", "qs_rank", "the_students", "the_z", "the_ranking", "the_rank")
+
+
+m$z_distance = m$qs_z - m$the_z
+m$ranking_distance = m$qs_ranking - m$the_ranking
+m$diff = m$qs_students - m$the_students
+m$pdiff = round(m$diff/((m$qs_students +　m$the_students)/2),5)
+
+# outlier
+meandif = mean(m$diff)
+meanpdif = mean(m$pdiff)
+stddif = sd(m$diff)
+stdpdif = sd(m$pdiff)
+
+m_outlier = m[(m$diff > meandif + 1.5*stddif) |
+                (m$diff < meandif - 1.5*stddif) |
+                (m$pdiff > meanpdif + 1.5*stdpdif) |
+                (m$pdiff < meanpdif - 1.5*stdpdif),]
+m_no_outlier = m[!((m$diff > meandif + 1.5*stddif) |
+                (m$diff < meandif - 1.5*stddif) |
+                (m$pdiff > meanpdif + 1.5*stdpdif) |
+                (m$pdiff < meanpdif - 1.5*stdpdif)),]
+
+for (i in 1:length(m$pdiff)){
+  if (((m$diff[i] > meandif + 1.5*stddif) |
+                (m$diff[i] < meandif - 1.5*stddif) |
+                (m$pdiff[i] > meanpdif + 1.5*stdpdif) |
+                (m$pdiff[i] < meanpdif - 1.5*stdpdif)) & m$diff[i] > 0){
+  m$outlier[i] = "outlier & student qs > the"
+  }
+  else if (((m$diff[i] > meandif + 1.5*stddif) |
+                (m$diff[i] < meandif - 1.5*stddif) |
+                (m$pdiff[i] > meanpdif + 1.5*stdpdif) |
+                (m$pdiff[i] < meanpdif - 1.5*stdpdif)) & m$diff[i] <= 0){
+    m$outlier[i] = "outlier & student qs < the"
+  }
+else{
+  m$outlier[i] = "not outlier"
+}
+}
+
+```
+
+Take number of students for example, 1st transforming approach is ranking number of students(asc) for each institute, the 2nd is calculate z score of number of students for each institute. All approaches are took before merging 2 table.
+
+
+#### Compare 2 approach
+
+
+##### data from QS vs THE in each approach
+```{r fig.align = "center", fig.height = 4, fig.width = 8, echo=FALSE}
+library(ggplot2)
+library(gridExtra)
+qs.plot = ggplot(m, aes(qs_ranking, the_ranking))
+qs.plot = qs.plot + geom_point(size = 0.5)
+the.plot = ggplot(m, aes(qs_z, the_z))
+the.plot = the.plot + geom_point(size = 0.5)
+grid.arrange(qs.plot, the.plot, nrow = 1, top = "comparison of transformed students number from 2 institutes")
+```
+
+
+##### original 'diff' vs transformed
+```{r echo=FALSE, fig.align="center", fig.height=4, fig.width=8}
+library(ggplot2)
+library(gridExtra)
+my.plot = ggplot(m, aes(diff, ranking_distance))
+my.plot = my.plot + geom_point(size = 0.5) +
+  labs(y = "transformed by ranking")
+my.plot2 = ggplot(m, aes(diff, z_distance))
+my.plot2 = my.plot2 + geom_point(size = 0.5) +
+  labs(y = "transformed by z score")
+grid.arrange(my.plot, my.plot2, nrow = 1, top = "'diff' of students number and 'diff' of transformed students number")
+```
+
+
+To check if transformed data have similar pattern with original data, correlation coefficient is shown below.
+
+
+##### ranking
+```{r echo=FALSE}
+#驗證transform的好壞
+corr.r = cor.test(x=m$ranking_distance , y=m$diff, method = 'pearson')
+print(corr.r)
+```
+
+##### z score
+```{r echo=FALSE}
+corr.z = cor.test(x=m$z_distance , y=m$diff, method = 'pearson')
+print(corr.z)
+```
+
+We can find that correlation coefficient between original one and z score is higher, so transforming to z score is a better way.
+
