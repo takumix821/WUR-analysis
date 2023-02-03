@@ -53,6 +53,10 @@ for (t in 1:(maxpage-5)){
   Sys.sleep(5)
 }
 
+#href_table = data.frame(University = all_univ_name, href = all_href_list, rank = all_univ_rank)
+#write.csv(href_table, "href_table_2023.csv", fileEncoding = "UTF-8")
+
+
 # ranking table
 qs_ranking.table = data.frame(matrix(nrow = 0, ncol = 10))
 value = c("University", "Total students", "PG students",
@@ -70,16 +74,18 @@ for(i in 1:all_univ_n){
   # staff ¤lµe­±
   target = remDr$findElement(using = 'id', value = "studStaff_Tab")
   target$sendKeysToElement(list("laptops", key="enter"))
-  
+  Sys.sleep(5)
   # subsection (stud, inter, staff)
   
   studstaff = remDr$findElements(using = 'class name', value = 'studstaff-subsection')
   studstaff.list = c()
-  for (i in 1:length(studstaff)){
-    sub.elem.list = studstaff[[i]]$findElements(using = 'class name', value = 'color-code-cont')
-    sub.list.char = unlist(lapply(sub.elem.list, function(e) { e$getElementText() }))[1]
-    sub.list = strsplit(sub.list.char, '\n')[[1]]
-    studstaff.list = c(studstaff.list, sub.list)
+  if (length(studstaff) > 0){
+    for (j in 1:length(studstaff)){
+      sub.elem.list = studstaff[[j]]$findElements(using = 'class name', value = 'color-code-cont')
+      sub.list.char = unlist(lapply(sub.elem.list, function(e) { e$getElementText() }))[1]
+      sub.list = strsplit(sub.list.char, '\n')[[1]]
+      studstaff.list = c(studstaff.list, sub.list)
+    }
   }
   
   # univ_name
@@ -122,6 +128,6 @@ for(i in 1:all_univ_n){
 }
 
 
-
+#write.csv(qs_ranking.table, "qs_table_2023.csv", fileEncoding = "UTF-8")
 
 

@@ -7,15 +7,15 @@ remDr <- remoteDriver(
 
 remDr$open()
 
-remDr$navigate("https://www.timeshighereducation.com/world-university-rankings/2022/world-ranking")
+remDr$navigate("https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking")
 
 #cookies = remDr$getAllCookies()
 
-for (i in 1:length(cookies)){
-  remDr$addCookie(cookies[[i]][['name']], cookies[[i]][['value']], path = "/")
-}
-Sys.sleep(5)
-remDr$refresh()
+#for (i in 1:length(cookies)){
+#  remDr$addCookie(cookies[[i]][['name']], cookies[[i]][['value']], path = "/")
+#}
+#Sys.sleep(5)
+#remDr$refresh()
 Sys.sleep(5)
 
 
@@ -40,8 +40,8 @@ for (i in 1:length(value)){
 colnames(the_ranking.table) = c("rank", "University", "Total Students",
                             "student staff ratio", "pc of int'l students", "female:male ratio")
 
-for(i in 1 : 84){
-  a = "https://www.timeshighereducation.com/world-university-rankings/2022/world-ranking#!/page/"
+for(i in 1 : 90){
+  a = "https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking#!/page/"
   b = "/length/25/sort_by/rank/sort_order/asc/cols/stats"
   aPlusb = paste0(a,i,b)
   remDr$navigate(aPlusb)
@@ -71,4 +71,8 @@ for(i in 1 : 84){
   
   the_ranking.table = rbind(the_ranking.table, ranking_table_new)
 }
+
+
+write.csv(the_ranking.table, "the_table_2023.csv", fileEncoding = "UTF-8")
+
 
