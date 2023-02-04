@@ -1,0 +1,1316 @@
+rank,University,Total Students,student staff ratio,pc of int'l students,female:male ratio
+1,University of Oxford,20967,10.6,0.42,0.9230769230769231
+2,Harvard University,21887,9.6,0.25,1.0
+3,University of Cambridge,20185,11.3,0.39,0.8867924528301887
+3,Stanford University,16164,7.1,0.24,0.8518518518518519
+5,Massachusetts Institute of Technology,11415,8.2,0.33,0.6666666666666666
+6,California Institute of Technology,2237,6.2,0.34,0.5873015873015873
+7,Princeton University,8279,8.0,0.23,0.8518518518518519
+8,"University of California, Berkeley",40921,18.4,0.24,1.0833333333333333
+9,Yale University,13482,5.9,0.21,1.0833333333333333
+10,Imperial College London,18544,11.2,0.61,0.6666666666666666
+11,ETH Zurich,21665,14.8,0.41000000000000003,0.4925373134328358
+13,The University of Chicago,15366,6.0,0.36,0.8867924528301887
+14,University of Pennsylvania,21453,6.3,0.23,1.127659574468085
+15,Johns Hopkins University,17584,4.7,0.29,1.127659574468085
+18,University of Toronto,77468,25.8,0.26,1.2727272727272727
+19,National University of Singapore,32337,19.8,0.25,1.0408163265306123
+20,Cornell University,24027,10.3,0.26,1.0408163265306123
+21,"University of California, Los Angeles",42434,9.7,0.16,1.2727272727272727
+22,UCL,36791,10.4,0.6,1.4390243902439024
+23,University of Michigan-Ann Arbor,45912,8.2,0.17,1.0
+24,New York University,36337,9.8,0.42,1.3255813953488371
+25,Duke University,16091,4.2,0.24,1.0833333333333333
+26,Northwestern University,19175,13.2,0.2,1.0408163265306123
+26,University of Washington,47727,10.8,0.18,1.2222222222222223
+28,Carnegie Mellon University,14305,12.9,0.47000000000000003,0.7857142857142857
+29,University of Edinburgh,32844,11.8,0.47000000000000003,1.631578947368421
+30,Technical University of Munich,33960,40.6,0.36,0.5873015873015873
+31,University of Hong Kong,18087,18.2,0.43,1.173913043478261
+32,"University of California, San Diego",37030,11.3,0.28,0.9230769230769231
+33,LMU Munich,35003,34.2,0.19,1.564102564102564
+34,University of Melbourne,49588,23.8,0.47000000000000003,1.380952380952381
+35,King’s College London,28967,11.8,0.52,1.7027027027027026
+36,"Nanyang Technological University, Singapore",24651,15.1,0.25,0.9230769230769231
+37,London School of Economics and Political Science,11118,11.9,0.73,1.2222222222222223
+38,Georgia Institute of Technology,28826,24.7,0.4,0.4925373134328358
+40,University of British Columbia,56452,18.9,0.34,1.2222222222222223
+41,Ecole Polytechnique Federale de Lausanne,11641,12.3,0.62,0.42857142857142855
+42,KU Leuven,47663,36.5,0.18,1.0408163265306123
+43,Universitat Heidelberg,19347,13.5,0.21,1.2222222222222223
+44,Monash University,58725,42.5,0.41000000000000003,1.3255813953488371
+46,McGill University,32309,12.5,0.3,1.5
+47,Paris Sciences et Lettres – PSL Research University Paris,16218,15.0,0.22,1.0408163265306123
+48,University of Illinois at Urbana-Champaign,48674,17.4,0.22,0.9230769230769231
+49,Karolinska Institute,8021,9.9,0.27,2.3333333333333335
+50,University of Texas at Austin,49171,17.4,0.1,1.127659574468085
+51,Fudan University,36318,11.9,0.09,1.0833333333333333
+52,Shanghai Jiao Tong University,37478,11.5,0.08,0.7241379310344828
+53,The University of Queensland,41372,34.2,0.41000000000000003,1.2222222222222223
+54,University of Manchester,37036,14.2,0.44,1.2222222222222223
+54,The University of Sydney,45853,19.0,0.45,1.380952380952381
+57,Washington University in St Louis,14420,7.8,0.24,1.127659574468085
+59,Wageningen University & Research,15404,18.6,0.27,1.2222222222222223
+60,University of Amsterdam,29157,14.5,0.32,1.4390243902439024
+62,Australian National University,16758,14.6,0.51,1.0833333333333333
+63,"University of California, Davis",37639,13.1,0.18,1.5
+64,"University of California, Santa Barbara",25860,28.5,0.2,1.173913043478261
+65,University of Southern California,40549,12.6,0.22,0.9607843137254902
+66,Utrecht University,32532,17.1,0.13,1.631578947368421
+68,Kyoto University,22269,9.2,0.12,0.3333333333333333
+69,University of North Carolina at Chapel Hill,31080,7.9,0.08,1.4390243902439024
+70,Delft University of Technology,20299,16.1,0.31,0.4492753623188406
+71,Boston University,27243,10.8,0.31,1.4390243902439024
+71,UNSW Sydney,45133,36.3,0.4,0.8867924528301887
+73,Charite - Universitatsmedizin Berlin,8429,18.0,0.21,1.7777777777777777
+75,University of Groningen,30009,24.4,0.28,1.0833333333333333
+76,University of Bristol,25679,14.6,0.31,1.2727272727272727
+77,Leiden University,33648,19.3,0.2,1.5
+78,Yonsei University,19481,14.7,0.17,1.0
+79,Hong Kong Polytechnic University,19046,28.9,0.3,1.0408163265306123
+80,Erasmus University Rotterdam,31668,33.9,0.22,1.127659574468085
+82,Emory University,13190,4.2,0.2,1.5
+82,University of Glasgow,28541,13.5,0.41000000000000003,1.4390243902439024
+82,University of Zurich,25003,13.7,0.22,1.2727272727272727
+85,McMaster University,26403,29.0,0.2,1.2727272727272727
+86,University of Tubingen,20620,27.5,0.13,1.4390243902439024
+88,University of Adelaide,23102,32.8,0.32,0.9607843137254902
+89,University of Bonn,27210,47.5,0.17,1.2727272727272727
+90,Sorbonne University,41443,13.9,0.21,1.4390243902439024
+91,Free University of Berlin,26497,41.9,0.23,1.631578947368421
+91,Korea Advanced Institute of Science and Technology,9946,10.7,0.09,0.26582278481012656
+93,Universite Paris-Saclay,44443,14.9,0.19,0.9607843137254902
+94,University of Bern,11728,17.2,0.17,1.380952380952381
+95,"University of California, Irvine",36655,16.9,0.28,1.0833333333333333
+95,Institut Polytechnique de Paris,5999,6.7,0.41000000000000003,0.3157894736842105
+95,Nanjing University,36426,16.5,0.08,1.173913043478261
+98,Vanderbilt University,12696,3.8,0.15,1.2222222222222223
+99,City University of Hong Kong,9099,12.1,0.62,1.173913043478261
+99,RWTH Aachen University,39738,50.0,0.28,0.4925373134328358
+101,University of Basel,8632,10.9,0.3,1.3255813953488371
+101,King Abdulaziz University,31545,7.8,0.22,1.173913043478261
+101,University of Minnesota,61009,12.0,0.1,1.173913043478261
+104,"University of Maryland, College Park",33775,16.5,0.11,0.9607843137254902
+104,University of Warwick,23231,13.1,0.44,1.0
+106,Michigan State University,45465,16.0,0.13,1.0833333333333333
+107,Ghent University,39437,35.6,0.12,1.3255813953488371
+108,University of Birmingham,31822,15.0,0.34,1.380952380952381
+108,University of Southampton,21173,13.7,0.39,1.127659574468085
+110,University of Helsinki,23059,15.8,0.05,2.0303030303030303
+112,Ohio State University,55814,11.8,0.13,1.0408163265306123
+113,University of Freiburg,20253,37.2,0.17,1.127659574468085
+114,University of Copenhagen,31519,4.2,0.16,1.631578947368421
+114,Universite Paris Cite,62747,17.0,0.19,1.8571428571428572
+114,University of Sheffield,27464,14.5,0.41000000000000003,1.127659574468085
+117,Aarhus University,26475,13.5,0.1,1.2222222222222223
+119,University of Gottingen,30221,26.0,0.14,1.0833333333333333
+119,Lund University,28545,11.5,0.18,1.2222222222222223
+121,Vrije Universiteit Amsterdam,29796,19.8,0.16,1.2727272727272727
+122,Lancaster University,14378,12.8,0.39,1.0408163265306123
+123,Dartmouth College,6440,7.8,0.15,0.9607843137254902
+124,Queen Mary University of London,20506,13.2,0.46,1.2222222222222223
+124,University of Vienna,35929,42.9,0.29,1.9411764705882353
+126,University of Oslo,21548,13.3,0.15,1.9411764705882353
+127,Purdue University West Lafayette,44551,16.9,0.2,0.7857142857142857
+128,University of Hamburg,30676,61.5,0.12,1.380952380952381
+128,University of Leeds,33991,14.6,0.36,1.5
+130,University of Nottingham,32876,15.1,0.31,1.173913043478261
+131,University of Antwerp,15857,32.2,0.17,1.2727272727272727
+131,The University of Western Australia,18405,21.3,0.28,0.9607843137254902
+133,University of Technology Sydney,27481,35.1,0.31,1.0
+134,Case Western Reserve University,10934,8.2,0.2,1.0408163265306123
+136,Georgetown University,16074,8.0,0.19,1.173913043478261
+137,University of Exeter,24164,15.9,0.29,1.127659574468085
+137,University of Ottawa,36670,26.0,0.24,1.380952380952381
+139,University of Auckland,33093,22.1,0.32,1.2727272727272727
+139,Newcastle University,25588,15.1,0.29,1.0833333333333333
+139,Radboud University Nijmegen,21979,17.6,0.13,1.2727272727272727
+139,University of Wurzburg,23754,40.7,0.1,1.380952380952381
+139,University of York,17666,14.3,0.28,1.2727272727272727
+144,University of Pittsburgh-Pittsburgh campus,26575,5.5,0.11,1.2222222222222223
+145,Maastricht University,19909,18.6,0.56,1.5
+147,Rice University,7068,9.2,0.28,0.7543859649122807
+148,University of Colorado Boulder,34928,16.0,0.08,0.8181818181818182
+148,Ulm University,10271,26.2,0.13,1.0408163265306123
+148,Uppsala University,25548,15.3,0.17,1.631578947368421
+151,University of Florida,46807,16.1,0.08,1.2727272727272727
+151,Penn State,46863,14.0,0.16,0.8867924528301887
+151,Tufts University,11399,10.0,0.16,1.2727272727272727
+154,University of Rochester,10364,7.7,0.36,1.0
+155,KTH Royal Institute of Technology,13329,16.4,0.2,0.5151515151515151
+156,Arizona State University,50027,19.6,0.17,0.8181818181818182
+156,Technical University of Berlin,20243,48.1,0.27,0.5384615384615384
+156,TU Dresden,30382,30.8,0.16,0.8181818181818182
+156,University of Virginia,25810,9.0,0.13,1.127659574468085
+160,University of Cape Town,21069,12.8,0.15,1.173913043478261
+161,University of Bologna,69831,24.4,0.12,1.2727272727272727
+161,Trinity College Dublin,17764,21.0,0.28,1.5
+163,University of Leicester,14649,14.1,0.34,1.173913043478261
+163,Lomonosov Moscow State University,32625,10.0,0.36,1.0
+166,Technical University of Denmark,9599,6.9,0.26,0.47058823529411764
+168,Medical University of Graz,3722,14.1,0.27,1.127659574468085
+168,"Northeastern University, US",21211,14.6,0.36,0.9230769230769231
+170,Indiana University,66637,12.6,0.13,1.127659574468085
+170,Universite Catholique de Louvain,24523,36.0,0.2,1.173913043478261
+174,Ulsan National Institute of Science and Technology,3896,13.6,0.09,0.3698630136986301
+175,Macquarie University,30561,69.0,0.27,1.0833333333333333
+176,University of Liverpool,26352,14.2,0.36,1.2222222222222223
+180,University of Arizona,39797,17.0,0.09,1.173913043478261
+181,Texas A&M University,62931,21.3,0.08,0.8867924528301887
+182,University of Barcelona,45004,15.8,0.11,1.7027027027027026
+183,Autonomous University of Barcelona,31933,12.7,0.16,1.5
+183,Scuola Normale Superiore di Pisa,629,7.6,0.13,0.3888888888888889
+186,Pompeu Fabra University,11965,22.4,0.13,1.5
+187,Cardiff University,27107,14.3,0.28,1.4390243902439024
+187,National Taiwan University,25215,11.4,0.11,0.7241379310344828
+189,Karlsruhe Institute of Technology,22673,21.6,0.2,0.4084507042253521
+191,University of Massachusetts,63338,13.2,0.14,0.9607843137254902
+192,University of Aberdeen,13203,16.2,0.44,1.380952380952381
+192,"University of California, Santa Cruz",19266,22.6,0.14,0.8867924528301887
+194,Medical University of Vienna,7274,8.4,0.33,1.0
+194,University of Miami,17009,10.8,0.16,1.127659574468085
+196,University of Erlangen-Nuremberg,30303,43.4,0.13,1.0408163265306123
+198,Durham University,18427,14.1,0.35000000000000003,1.173913043478261
+198,Queen’s University Belfast,19061,15.7,0.39,1.3255813953488371
+198,University of Reading,15720,16.4,0.32,1.2727272727272727
+225,Aalto University,13306,19.7,0.21,0.6129032258064516
+225,University of Bergen,15202,12.8,0.1,1.5
+225,Bielefeld University,24875,66.6,0.07,1.380952380952381
+225,University of Calgary,33560,18.7,0.21,1.173913043478261
+225,Curtin University,29999,20.8,0.31,1.0833333333333333
+225,University of Dundee,13631,18.3,0.27,1.7777777777777777
+225,University of East Anglia,15941,13.3,0.25,1.380952380952381
+225,University of Geneva,19078,8.7,0.4,1.631578947368421
+225,George Washington University,22298,12.9,0.15,1.631578947368421
+225,University of Hohenheim,8714,39.7,0.14,1.380952380952381
+225,Humanitas University,1823,19.0,0.18,1.4390243902439024
+225,King Fahd University of Petroleum and Minerals,7268,8.6,0.1,0.02040816326530612
+225,University of Konstanz,5758,24.2,0.12,1.5
+225,Universite Libre de Bruxelles,28290,49.3,0.31,1.3255813953488371
+225,University of Luxembourg,5185,19.3,0.51,1.127659574468085
+225,University of Macau,10460,15.4,0.39,1.2222222222222223
+225,Macau University of Science and Technology,11993,38.1,0.91,1.3255813953488371
+225,Medical University of Innsbruck,3244,12.9,0.43,1.173913043478261
+225,University of Newcastle,24363,29.5,0.18,1.3255813953488371
+225,University of Notre Dame,12401,10.9,0.13,0.8518518518518519
+225,University of Padua,48524,29.3,0.08,1.2222222222222223
+225,University of Potsdam,14993,39.6,0.14,1.3255813953488371
+225,Qatar University,9084,8.8,0.35000000000000003,3.347826086956522
+225,Queensland University of Technology,35278,37.9,0.17,1.127659574468085
+225,Rutgers University – New Brunswick,46158,10.9,0.17,1.127659574468085
+225,"St George’s, University of London",3489,13.3,0.2,1.7777777777777777
+225,Sant’Anna School of Advanced Studies – Pisa,1100,14.0,0.19,0.6949152542372882
+225,University of Sao Paulo,82010,15.9,0.04,0.8867924528301887
+225,Sapienza University of Rome,72604,28.2,0.1,1.5
+225,Semmelweis University,9860,12.2,0.34,2.225806451612903
+225,University of St Andrews,9770,12.3,0.47000000000000003,1.4390243902439024
+225,University of Surrey,14958,16.9,0.36,1.127659574468085
+225,University of Sussex,17791,17.5,0.37,1.2222222222222223
+225,Universita della Svizzera italiana,3266,12.5,0.66,0.8867924528301887
+225,University of Tartu,9235,12.0,0.13,2.125
+225,Tel Aviv University,23834,23.0,0.07,1.3255813953488371
+225,Tohoku University,17812,12.4,0.14,0.3888888888888889
+225,Vita-Salute San Raffaele University,3560,15.1,0.05,1.564102564102564
+225,Vrije Universiteit Brussel,14284,33.6,0.23,1.3255813953488371
+225,University of Waterloo,34306,23.2,0.23,0.9230769230769231
+225,Western University,29747,29.5,0.22,1.2727272727272727
+225,Western Sydney University,36033,40.3,0.22,1.380952380952381
+225,University of Wollongong,17440,29.1,0.27,1.173913043478261
+275,Auckland University of Technology,18837,17.3,0.49,1.4390243902439024
+275,Australian Catholic University,23728,39.1,0.15,3.0
+275,University of Bath,14953,15.5,0.34,0.8518518518518519
+275,Bond University,3214,10.9,0.39,1.173913043478261
+275,Boston College,12755,14.5,0.12,1.173913043478261
+275,Bournemouth University,13823,18.5,0.21,1.127659574468085
+275,Brighton and Sussex Medical School,1013,19.7,0.17,1.5
+275,"University of California, Riverside",24515,18.6,0.14,1.127659574468085
+275,Chalmers University of Technology,9513,13.8,0.19,0.47058823529411764
+275,"China Medical University, Taiwan",7284,15.5,0.09,1.2727272727272727
+275,Copenhagen Business School,16547,27.7,0.24,0.9230769230769231
+275,Deakin University,43080,33.9,0.25,1.380952380952381
+275,University of Duisburg-Essen,41618,43.7,0.19,0.9607843137254902
+275,Heinrich Heine University Dusseldorf,29365,32.8,0.12,1.380952380952381
+275,Ecole des Ponts ParisTech,1959,10.0,0.37,0.47058823529411764
+275,Goethe University Frankfurt,30082,12.7,0.14,1.380952380952381
+275,Griffith University,35900,32.9,0.17,1.4390243902439024
+275,University of Hawai’i at M<U+0101>noa,14628,10.7,0.11,1.2727272727272727
+275,Hebrew University of Jerusalem,16175,11.3,0.05,1.3255813953488371
+275,University of Illinois at Chicago,28724,11.3,0.19,1.173913043478261
+275,Indian Institute of Science,3990,8.8,0.01,0.3698630136986301
+275,Johannes Gutenberg University of Mainz,30856,25.5,0.12,1.4390243902439024
+275,University of Kiel,27911,22.7,0.09,1.127659574468085
+275,King Saud University,33931,10.6,0.14,0.7857142857142857
+275,Kyung Hee University,20504,17.7,0.27,1.2222222222222223
+275,La Trobe University,21663,27.4,0.33,1.7027027027027026
+275,Universite Laval,28611,16.9,0.15,1.380952380952381
+275,Linkoping University,15026,14.4,0.15,1.0833333333333333
+275,University of Navarra,11466,14.7,0.27,1.173913043478261
+275,Oregon Health and Science University,3035,1.0,0.03,2.0303030303030303
+275,Osaka University,22485,10.5,0.1,0.4925373134328358
+275,University of Pavia,20027,34.9,0.1,1.3255813953488371
+275,Queen’s University,26556,26.2,0.17,1.4390243902439024
+275,Ruhr University Bochum,38441,48.5,0.15,1.0
+275,Sejong University,12356,20.8,0.13,0.9230769230769231
+275,University of Sharjah,12933,19.2,0.55,2.0303030303030303
+275,Simon Fraser University,26981,27.5,0.31,1.173913043478261
+275,University of Southern Denmark,18471,10.2,0.14,1.127659574468085
+275,Stellenbosch University,24907,25.9,0.08,1.2727272727272727
+275,Sun Yat-sen University,57951,15.1,0.05,0.9607843137254902
+275,Swansea University,17489,15.4,0.22,0.8867924528301887
+275,Tilburg University,11876,29.9,0.2,1.0408163265306123
+275,Tongji University,30153,10.8,0.12,0.8518518518518519
+275,University of Twente,9816,14.7,0.37,0.5873015873015873
+275,United Arab Emirates University,7121,10.9,0.17,4.0
+275,University of Utah,30967,13.6,0.08,0.9230769230769231
+275,Virginia Polytechnic Institute and State University,36512,18.5,0.14,0.7543859649122807
+275,University of the Witwatersrand,26871,23.6,0.07,1.2727272727272727
+325,Abu Dhabi University,3926,18.1,0.6,1.0408163265306123
+325,Aix-Marseille University,70054,17.4,0.13,1.5
+325,Alfaisal University,2851,10.2,0.32,1.4390243902439024
+325,Anglia Ruskin University,20287,27.8,0.46,1.7777777777777777
+325,Autonomous University of Madrid,29327,13.2,0.12,1.564102564102564
+325,University of Bordeaux,53755,22.4,0.13,1.4390243902439024
+325,Brandeis University,5427,13.1,0.28,1.4390243902439024
+325,Universiti Brunei Darussalam,3641,10.8,0.14,1.9411764705882353
+325,University at Buffalo,27393,18.0,0.15,0.8181818181818182
+325,"University of California, Merced",9185,20.1,0.1,1.0833333333333333
+325,University of Colorado Denver/Anschutz Medical Campus,17224,3.8,0.08,1.3255813953488371
+325,Dalhousie University,16901,14.8,0.28,1.2222222222222223
+325,Drexel University,19304,12.5,0.14,1.0408163265306123
+325,Ecole Normale Superieure de Lyon,2171,8.6,0.11,0.8867924528301887
+325,University of Essex,14335,15.3,0.4,1.173913043478261
+325,Flinders University,17027,27.9,0.36,1.8571428571428572
+325,Florida State University,39380,24.0,0.07,1.3255813953488371
+325,University of Galway,15109,26.1,0.2,1.5
+325,George Mason University,32157,18.1,0.12,1.127659574468085
+325,Hasselt University,5683,31.1,0.14,0.9607843137254902
+325,University of Iowa,29257,11.1,0.08,1.173913043478261
+325,Lappeenranta-Lahti University of Technology LUT,4609,30.3,0.12,0.4925373134328358
+325,University of Milan,47512,21.2,0.07,1.5
+325,University of Milan-Bicocca,29057,29.2,0.05,1.631578947368421
+325,Montpellier University,40179,20.1,0.15,1.173913043478261
+325,Nagoya University,15224,12.8,0.12,0.42857142857142855
+325,University of Otago,18508,19.7,0.19,1.5
+325,University of Oulu,10134,19.8,0.07,1.173913043478261
+325,Peter the Great St Petersburg Polytechnic University,16375,9.7,0.32,0.6949152542372882
+325,Reykjavik University,2757,22.9,0.08,0.8867924528301887
+325,RMIT University,32692,23.6,0.34,0.9230769230769231
+325,University of St Gallen,8065,12.2,0.34,0.5384615384615384
+325,Saint Louis University,10798,7.4,0.07,1.5
+325,University of South Australia,23490,32.9,0.21,1.380952380952381
+325,University of Southern Queensland,12150,26.0,0.18,1.631578947368421
+325,Stony Brook University,25411,10.6,0.22,1.0833333333333333
+325,University of Stuttgart,16054,26.5,0.19,0.5151515151515151
+325,Swinburne University of Technology,15327,25.6,0.25,0.6129032258064516
+325,Taipei Medical University,5946,9.1,0.1,1.380952380952381
+325,Tampere University,15855,20.6,0.06,1.173913043478261
+325,University of Tasmania,18264,22.9,0.36,1.5
+325,Technical University of Darmstadt,15526,37.1,0.18,0.5151515151515151
+325,Temple University,35641,12.5,0.08,1.173913043478261
+325,Tokyo Institute of Technology,9878,9.5,0.17,0.19047619047619047
+325,University College Cork,17925,20.8,0.2,1.4390243902439024
+325,University of Victoria,20936,24.6,0.21,1.2222222222222223
+375,American University of Beirut,9267,8.7,0.22,1.0408163265306123
+375,"Asia University, Taiwan",11421,30.3,0.07,1.631578947368421
+375,Ateneo de Manila University,13159,10.0,0.04,1.0408163265306123
+375,"Birkbeck, University of London",8059,16.7,0.4,1.2727272727272727
+375,University of Bremen,12635,20.1,0.14,1.127659574468085
+375,University of Brescia,15133,24.6,0.07,0.8518518518518519
+375,University of Cape Coast,28451,35.5,0.0,0.4925373134328358
+375,Catholic University of Portugal,11213,22.2,0.21,1.7027027027027026
+375,Charles Darwin University,7246,34.5,0.3,2.225806451612903
+375,"City, University of London",15459,18.2,0.51,1.3255813953488371
+375,University of Delaware,21808,16.3,0.12,1.3255813953488371
+375,East China Normal University,28055,14.7,0.11,1.7777777777777777
+375,Edith Cowan University,18759,30.4,0.28,1.5
+375,Golestan University of Medical Sciences,3721,11.5,0.11,1.5
+375,University of Greifswald,10291,20.6,0.08,1.380952380952381
+375,University of Hail,19366,11.2,0.1,1.7027027027027026
+375,Howard University,8782,8.2,0.06,2.3333333333333335
+375,Imam Mohammad Ibn Saud Islamic University,43110,10.8,0.03,0.639344262295082
+375,IMT Atlantique,1436,7.7,0.33,0.3333333333333333
+375,James Cook University,12825,20.1,0.32,1.631578947368421
+375,JSS Academy of Higher Education and Research,7891,9.5,0.07,1.173913043478261
+375,University of Kent,16703,17.0,0.29,1.173913043478261
+375,Khalifa University,3029,8.8,0.22,1.380952380952381
+375,Kurdistan University of Medical Sciences,3181,10.5,0.02,0.9607843137254902
+375,Leuphana University of Luneburg,7839,26.1,0.07,1.631578947368421
+375,University of Liege,21910,26.8,0.21,1.380952380952381
+375,Loughborough University,15815,13.7,0.29,0.6949152542372882
+375,University of Malaya,18320,9.8,0.18,1.380952380952381
+375,University of Manitoba,29561,29.4,0.2,1.173913043478261
+375,Mazandaran University of Medical Sciences,7845,15.1,0.01,1.3255813953488371
+375,University of Naples Federico II,53319,20.2,0.02,1.2222222222222223
+375,University of New Mexico,18046,16.9,0.05,1.2727272727272727
+375,North Carolina State University,31540,16.6,0.14,0.9230769230769231
+375,University of Rome II – Tor Vergata,24038,30.3,0.2,1.2727272727272727
+375,"Royal Holloway, University of London",10640,15.1,0.35000000000000003,1.3255813953488371
+375,Royal Veterinary College,2248,10.4,0.3,4.0
+375,Rush University,2757,2.1,0.01,3.1666666666666665
+375,Shoolini University of Biotechnology and Management Sciences,2973,14.3,0.02,0.8181818181818182
+375,University of Stirling,9855,16.0,0.27,1.7777777777777777
+375,Swedish University of Agricultural Sciences,4216,4.6,0.07,2.3333333333333335
+375,University of Texas at Dallas,25464,21.6,0.2,0.7543859649122807
+375,Tulane University,11220,7.5,0.11,1.380952380952381
+375,University of Turku,13012,15.3,0.05,1.7777777777777777
+375,University of Vaasa,3873,20.0,0.04,1.127659574468085
+375,Verona University,18621,23.8,0.04,1.7777777777777777
+375,Wake Forest University,8122,4.0,0.1,1.173913043478261
+375,Washington State University,29463,19.5,0.07,1.173913043478261
+375,Wroclaw Medical University,6769,9.4,0.14,2.4482758620689653
+450,Alagappa University,4831,15.7,0.0,1.7027027027027026
+450,University of Alaska Fairbanks,2910,7.2,0.06,1.127659574468085
+450,Arak University of Medical Sciences,3500,7.4,0.01,1.2727272727272727
+450,Aston University,12014,17.8,0.25,0.9230769230769231
+450,Aswan University,31877,46.7,0.02,1.2222222222222223
+450,Babol University of Medical Sciences,4102,11.8,0.0,1.380952380952381
+450,Babol Noshirvani University of Technology,6180,28.7,0.0,0.4925373134328358
+450,Bangor University,8790,15.8,0.26,1.564102564102564
+450,University of Bayreuth,9734,26.6,0.12,0.8867924528301887
+450,Brunel University London,13041,17.0,0.39,0.8867924528301887
+450,University of Campinas,31199,17.8,0.03,0.8518518518518519
+450,Cankaya University,7113,25.4,0.01,0.8518518518518519
+450,University of Catania,26902,21.2,0.03,1.380952380952381
+450,Claude Bernard University Lyon 1,28253,13.0,0.14,1.173913043478261
+450,Colorado School of Mines,6350,17.6,0.09,0.4492753623188406
+450,"Colorado State University, Fort Collins",29351,17.7,0.06,1.2222222222222223
+450,Complutense University of Madrid,61128,20.3,0.12,1.631578947368421
+450,University of Connecticut,27752,13.6,0.12,1.0833333333333333
+450,University of Crete,13808,27.6,0.04,1.7027027027027026
+450,University of Cyprus,6875,20.1,0.13,1.5
+450,University of Denver,10001,13.0,0.06,1.5
+450,Dublin City University,13956,25.4,0.17,1.4390243902439024
+450,Duy Tan University,21670,21.9,0.0,1.631578947368421
+450,Edinburgh Napier University,11536,20.4,0.35000000000000003,1.127659574468085
+450,University of Electronic Science and Technology of China,35232,15.4,0.03,0.42857142857142855
+450,Ferhat Abbas Setif University 1,34637,22.7,0.01,1.7027027027027026
+450,University of Ferrara,20507,32.6,0.05,1.564102564102564
+450,University of Florence,39407,23.0,0.09,1.2727272727272727
+450,Free University of Bozen-Bolzano,4236,12.6,0.15,2.125
+450,University of Genoa,20447,23.7,0.08,1.3255813953488371
+450,Georgia State University,34734,17.3,0.05,1.380952380952381
+450,Universite Grenoble Alpes,50868,18.2,0.17,1.0833333333333333
+450,Hunan University,41580,18.6,0.02,0.8867924528301887
+450,University of Ibadan,26156,17.6,0.0,0.9607843137254902
+450,Illinois Institute of Technology,6386,11.5,0.41000000000000003,0.5873015873015873
+450,University of Innsbruck,13918,22.0,0.46,1.127659574468085
+450,Institut Agro,2148,11.5,0.16,1.8571428571428572
+450,University of International Business and Economics,16061,15.7,0.15,2.225806451612903
+450,Iowa State University,28767,16.7,0.1,0.7857142857142857
+450,Jazan University,26568,13.0,0.03,1.7777777777777777
+450,Justus Liebig University Giessen,28278,44.6,0.11,1.7027027027027026
+450,University of Jyvaskyla,10444,14.4,0.03,1.631578947368421
+450,University of Kansas,24435,9.9,0.08,1.127659574468085
+450,University of Klagenfurt,3562,10.0,0.28,2.125
+450,Koc University,5882,19.7,0.08,0.9230769230769231
+450,University of KwaZulu-Natal,35795,30.1,0.02,1.5
+450,University of Lagos,36237,21.5,0.0,0.9230769230769231
+450,Leibniz University Hannover,21677,43.7,0.18,0.7241379310344828
+450,Lincoln University,2492,13.3,0.44,1.0408163265306123
+450,University of Lincoln,14479,15.8,0.13,1.2222222222222223
+450,Liverpool John Moores University,21727,17.4,0.16,1.173913043478261
+450,Mahatma Gandhi University,1855,14.6,0.02,1.564102564102564
+450,University of Marburg,23383,31.2,0.12,1.2727272727272727
+450,Maynooth University,11454,28.5,0.15,1.2222222222222223
+450,Middlesex University,15906,18.8,0.5,1.380952380952381
+450,University of Modena and Reggio Emilia,21409,26.9,0.05,1.127659574468085
+450,Muhimbili University of Health and Allied Sciences,3626,11.3,0.03,0.6949152542372882
+450,Murdoch University,16641,36.5,0.4,1.564102564102564
+450,National and Kapodistrian University of Athens,66649,31.0,0.11,1.4390243902439024
+450,National Research Nuclear University MEPhI,5016,9.2,0.31,0.6666666666666666
+450,University of Nebraska-Lincoln,24909,16.8,0.1,0.9607843137254902
+450,University of Nebraska Medical Center,3181,2.0,0.09,2.225806451612903
+450,Norwegian University of Science and Technology,37707,15.8,0.09,0.9230769230769231
+450,Nova Southeastern University,17952,16.3,0.04,2.3333333333333335
+450,Orebro University,10005,15.2,0.05,1.564102564102564
+450,University of Passau,9703,69.2,0.12,1.564102564102564
+450,University of Pisa,33791,21.9,0.06,1.0408163265306123
+450,University of Plymouth,15606,17.8,0.16,1.380952380952381
+450,University of Porto,33484,16.2,0.16,1.2222222222222223
+450,University of Portsmouth,22489,16.4,0.29,0.8867924528301887
+450,Qazvin University of Medical Sciences,2598,9.2,0.01,1.3255813953488371
+450,Qom University of Medical Sciences,2272,9.1,0.04,1.3255813953488371
+450,Quaid-i-Azam University,9250,16.5,0.01,1.0408163265306123
+450,Sabanc<U+0131> University,3819,20.0,0.1,0.6129032258064516
+450,Sharif University of Technology,9219,22.5,0.02,0.3333333333333333
+450,Shenzhen University,38240,14.1,0.01,0.8518518518518519
+450,University of Siena,12948,18.7,0.09,1.7027027027027026
+450,South China University of Technology,40082,12.7,0.05,0.639344262295082
+450,Southeast University,37484,12.3,0.04,0.5625
+450,SRUC,1325,5.3,0.08,1.5
+450,University of Strathclyde,19842,17.0,0.29,1.0
+450,Sumy State University,8703,11.4,0.21,0.7857142857142857
+450,Syracuse University,20620,14.9,0.23,1.0833333333333333
+450,Universiti Teknologi Petronas,5021,13.6,0.16,0.6129032258064516
+450,Ton Duc Thang University,27878,25.3,0.01,1.2727272727272727
+450,University of Trento,14219,19.2,0.08,1.0833333333333333
+450,The University of Tulsa,4407,12.0,0.1,0.9230769230769231
+450,University of Turin,58463,28.4,0.06,1.564102564102564
+450,TU Wien,10327,17.7,0.31,0.4492753623188406
+450,Umea University,18218,12.6,0.11,1.564102564102564
+450,Urmia University of Medical Sciences,4644,12.0,0.02,1.0408163265306123
+450,Universiti Utara Malaysia,12457,11.6,0.3,3.761904761904762
+450,Victoria University of Wellington,17883,18.8,0.2,1.380952380952381
+450,University of Waikato,10472,17.6,0.31,1.4390243902439024
+450,University of the West of England,24587,15.9,0.23,1.127659574468085
+450,William & Mary,8089,10.9,0.08,1.2727272727272727
+450,York University,44036,29.1,0.28,1.2222222222222223
+550,Aberystwyth University,6182,16.2,0.24,1.0833333333333333
+550,An-Najah National University,23922,23.9,0.1,1.8571428571428572
+550,University of L’Aquila,18491,40.2,0.04,1.2727272727272727
+550,Bauman Moscow State Technical University,16925,6.8,0.15,0.6666666666666666
+550,Birmingham City University,22934,16.6,0.26,1.631578947368421
+550,University of Bradford,8400,19.2,0.3,1.3255813953488371
+550,Bucharest University of Economic Studies,22723,16.2,0.04,1.8571428571428572
+550,Centrale Nantes,1730,15.7,0.43,0.3157894736842105
+550,Changsha University of Science and Technology,33342,15.3,0.01,0.5873015873015873
+550,Charles University in Prague,49787,13.2,0.22,1.631578947368421
+550,University of Cote d’Azur,31723,20.2,0.2,1.2727272727272727
+550,Damietta University,30084,24.7,0.01,2.4482758620689653
+550,Durban University of Technology,27063,36.5,0.01,1.173913043478261
+550,Eastern Mediterranean University,14375,27.0,0.76,0.7543859649122807
+550,Ecole des Mines de Saint-Etienne,1115,9.9,0.25,0.3888888888888889
+550,Federal University of Toulouse Midi-Pyrenees,108889,19.8,0.14,1.2222222222222223
+550,Florida International University,35590,23.3,0.09,1.3255813953488371
+550,University of Fribourg,6880,15.6,0.14,1.7777777777777777
+550,"Goldsmiths, University of London",9216,14.9,0.39,1.9411764705882353
+550,Government College University Faisalabad,21219,27.3,0.0,0.8518518518518519
+550,University of Greenwich,15045,20.2,0.44,1.3255813953488371
+550,University of Guelph,22763,27.4,0.1,1.4390243902439024
+550,Gwangju Institute of Science and Technology,1808,10.0,0.08,0.3333333333333333
+550,Harokopio University,3125,46.6,0.03,1.127659574468085
+550,Heriot-Watt University,9733,17.8,0.37,0.6666666666666666
+550,Hokkaido University,18263,8.4,0.11,0.42857142857142855
+550,Hong Kong Baptist University,8358,12.4,0.62,2.0303030303030303
+550,University of Hull,12567,17.2,0.19,1.2222222222222223
+550,University of Iceland,10642,17.9,0.1,2.125
+550,Indian Institute of Technology Ropar,2339,13.6,0.0,0.20481927710843373
+550,University of Insubria,9789,27.0,0.06,1.2222222222222223
+550,"International Institute of Information Technology, Hyderabad",1862,18.1,0.07,0.25
+550,Iran University of Science and Technology,15436,33.9,0.01,0.5151515151515151
+550,"Islamic Azad University, Najafabad Branch",21971,17.7,0.0,0.8867924528301887
+550,Jacobs University,1556,21.6,0.84,0.7543859649122807
+550,Jamia Millia Islamia,10481,11.2,0.02,0.9607843137254902
+550,Jimma University,30473,16.3,0.0,0.42857142857142855
+550,Johannes Kepler University of Linz,7133,22.5,0.13,1.0
+550,Jordan University of Science and Technology,25905,14.9,0.13,1.3255813953488371
+550,Kafrelsheikh University,62533,26.1,0.02,0.9230769230769231
+550,Kashan University of Medical Sciences and Health Services,3419,12.8,0.02,0.6129032258064516
+550,Keele University,9172,15.3,0.16,1.4390243902439024
+550,University of Kentucky,27216,11.2,0.04,1.3255813953488371
+550,Kermanshah University of Medical Sciences,5759,9.6,0.12,1.127659574468085
+550,University of Kragujevac,16679,15.8,0.01,1.3255813953488371
+550,Kyushu University,18568,7.8,0.14,0.4084507042253521
+550,Lebanese American University,7057,10.1,0.19,1.0833333333333333
+550,University of Lille,75291,29.6,0.14,1.5
+550,University of Lisbon,48404,18.1,0.18,1.127659574468085
+550,University of Management and Technology,22520,22.2,0.02,0.8181818181818182
+550,University of Messina,15290,24.2,0.03,1.7027027027027026
+550,Middle East Technical University,17151,22.5,0.1,0.9230769230769231
+550,Missouri University of Science and Technology,7617,22.3,0.09,0.2987012987012987
+550,University of Mons,7450,26.9,0.17,1.3255813953488371
+550,National Tsing Hua University,13711,16.3,0.11,0.6949152542372882
+550,National Yang Ming Chiao Tung University,16425,14.2,0.11,0.5625
+550,University of Neuchatel,4148,11.1,0.21,1.564102564102564
+550,University of Nicosia,4696,11.3,0.54,1.127659574468085
+550,Northumbria University,22498,16.3,0.22,1.173913043478261
+550,Northwestern Polytechnical University,34095,13.9,0.04,0.3888888888888889
+550,Nottingham Trent University,29925,15.3,0.21,1.3255813953488371
+550,Open University of Catalonia,32319,100.5,0.06,1.3255813953488371
+550,University of Peradeniya,16123,10.7,0.01,1.4390243902439024
+550,Universitat Ramon Llull,14900,22.2,0.19,1.0833333333333333
+550,Saint-Petersburg Mining University,7944,13.0,0.12,0.7241379310344828
+550,University of Salerno,26289,27.4,0.03,1.173913043478261
+550,University of Saskatchewan,17741,17.6,0.22,1.2222222222222223
+550,University of Sassari,15065,37.9,0.02,1.631578947368421
+550,Saveetha Institute of Medical and Technical Sciences,12394,7.4,0.01,0.6129032258064516
+550,Sciences Po,12872,45.2,0.37,1.564102564102564
+550,Shiraz University of Technology,1437,13.8,0.0,0.5873015873015873
+550,SOAS University of London,4656,12.8,0.53,2.0303030303030303
+550,University of South Carolina-Columbia,33025,15.6,0.05,1.2222222222222223
+550,Southwestern University of Finance and Economics,23330,16.4,0.02,1.8571428571428572
+550,University of Stavanger,11089,11.4,0.11,1.380952380952381
+550,Stevens Institute of Technology,6624,18.6,0.35000000000000003,0.4084507042253521
+550,SUNY University at Albany,16090,17.2,0.08,1.2222222222222223
+550,University of Tabuk,29471,14.4,0.02,1.3255813953488371
+550,Technion Israel Institute of Technology,15147,21.0,0.12,0.639344262295082
+550,Tokyo Medical and Dental University,3010,4.4,0.11,1.0
+550,University of Trieste,16677,24.9,0.07,1.3255813953488371
+550,University of Tsukuba,15725,12.7,0.16,0.6129032258064516
+550,TU Dortmund University,25046,74.8,0.1,0.8867924528301887
+550,University of Tuscia,6272,20.0,0.04,1.173913043478261
+550,University of Udine,12326,18.5,0.05,1.173913043478261
+550,UiT The Arctic University of Norway,14377,10.1,0.1,1.380952380952381
+550,University of Valencia,50575,14.3,0.14,1.380952380952381
+550,University of Vic – Central University of Catalonia,6472,14.0,0.2,1.5
+550,Victoria University,16106,45.2,0.25,1.2222222222222223
+550,Virginia Commonwealth University,26472,10.7,0.04,1.7027027027027026
+550,Wayne State University,22941,11.9,0.05,1.4390243902439024
+550,The University of the West Indies,24811,17.0,0.01,2.4482758620689653
+550,Xi’an Jiaotong University,44942,14.1,0.06,0.5384615384615384
+550,University of Zambia,16903,21.2,0.01,0.5384615384615384
+550,Zayed University,8593,14.1,0.02,7.333333333333333
+700,Abdul Wali Khan University Mardan,10314,20.9,0.0,0.47058823529411764
+700,Addis Ababa University,46881,14.8,0.0,0.4084507042253521
+700,Ahvaz Jundishapur University of Medical Sciences,8601,11.6,0.02,1.5
+700,Ajou University,7574,14.2,0.17,0.7241379310344828
+700,Amedeo Avogadro University of Eastern Piedmont,14292,37.1,0.07,1.564102564102564
+700,American University,12495,11.6,0.11,1.7027027027027026
+700,American University of Sharjah,4468,11.9,0.76,1.127659574468085
+700,Amirkabir University of Technology,10673,21.2,0.02,0.5384615384615384
+700,University of Antofagasta,8083,20.4,0.02,1.2727272727272727
+700,University of Arkansas,25207,19.4,0.04,1.173913043478261
+700,Auburn University,27512,18.2,0.1,1.0
+700,Azarbaijan Shahid Madani University,7350,26.2,0.0,1.564102564102564
+700,University of Babylon,26449,12.7,0.0,1.173913043478261
+700,Bahce<U+015F>ehir University,17813,47.2,0.18,0.9607843137254902
+700,Bahria University,19573,22.2,0.01,0.7857142857142857
+700,Banaras Hindu University,13900,8.7,0.03,0.6129032258064516
+700,University of Bari Aldo Moro,29905,21.6,0.02,1.631578947368421
+700,Bar-Ilan University,17255,17.3,0.04,1.564102564102564
+700,Baylor University,19700,17.7,0.07,1.2222222222222223
+700,Beirut Arab University,5698,12.0,0.18,0.8181818181818182
+700,Ben-Gurion University of the Negev,16468,20.4,0.02,1.0833333333333333
+700,Benha University,110645,32.5,0.03,0.7241379310344828
+700,Universite Bourgogne Franche-Comte,67049,37.3,0.11,1.2727272727272727
+700,Ca’ Foscari University of Venice,18231,38.3,0.1,1.7777777777777777
+700,University of Camerino,8129,27.9,0.1,0.8518518518518519
+700,University of Canterbury,15245,18.4,0.22,1.0408163265306123
+700,Capital Medical University,15254,4.9,0.05,1.631578947368421
+700,Carleton University,28760,29.7,0.22,0.9607843137254902
+700,University of Central Florida,62248,36.1,0.05,1.2727272727272727
+700,Central Queensland University,15453,20.7,0.26,1.380952380952381
+700,Clark University,3273,11.6,0.25,1.4390243902439024
+700,University of Coimbra,21429,18.0,0.19,1.380952380952381
+700,University of Colombo,31792,31.9,0.0,1.380952380952381
+700,COMSATS University Islamabad,33465,14.8,0.02,0.7241379310344828
+700,Concordia University,35592,33.5,0.34,1.0
+700,University of Cordoba,16847,13.5,0.1,1.2727272727272727
+700,University of Costa Rica,31545,13.4,0.02,1.127659574468085
+700,Covenant University,8362,15.5,0.01,0.6666666666666666
+700,Cyprus University of Technology,3280,16.9,0.14,1.2727272727272727
+700,Delhi Technological University,11196,22.3,0.03,0.28205128205128205
+700,De Montfort University,24491,20.2,0.38,1.173913043478261
+700,University of Derby,15525,14.7,0.18,1.4390243902439024
+700,University of Desarrollo,15933,15.9,0.03,1.2727272727272727
+700,University of Dhaka,211424,16.1,0.03,0.9230769230769231
+700,Dow University of Health Sciences,7249,6.8,0.03,3.1666666666666665
+700,University of Eastern Finland,11898,18.2,0.05,1.9411764705882353
+700,Universidade Eduardo Mondlane,45256,26.1,0.0,0.639344262295082
+700,"University of Engineering and Technology, Taxila",5290,19.3,0.02,0.21951219512195122
+700,ENSTA Bretagne,830,8.1,0.05,0.3157894736842105
+700,Eotvos Lorand University,30190,17.5,0.09,1.631578947368421
+700,Fayoum University,44786,16.8,0.0,1.631578947368421
+700,Universidade Federal do Rio Grande do Sul,39169,14.1,0.01,1.0833333333333333
+700,Universidade Federal de Sao Paulo,18877,10.3,0.01,1.4390243902439024
+700,Federation University Australia,11684,22.2,0.52,1.2222222222222223
+700,Financial University under the Government of the Russian Federation,16139,12.9,0.07,1.0408163265306123
+700,Gabriele d‘Annunzio University,23416,32.4,0.02,1.7777777777777777
+700,University of Georgia,37465,13.2,0.07,1.380952380952381
+700,Glasgow Caledonian University,14271,23.6,0.19,1.3255813953488371
+700,University of Granada,54619,14.5,0.1,1.5
+700,Graphic Era University,7823,14.3,0.01,0.7241379310344828
+700,University of Graz,12531,12.4,0.17,1.9411764705882353
+700,Graz University of Technology,6353,8.6,0.23,0.3333333333333333
+700,Guangzhou University,36701,19.4,0.0,1.7777777777777777
+700,Guangzhou Medical University,12891,1.7,0.02,1.2727272727272727
+700,Hacettepe University,38444,20.1,0.03,1.2727272727272727
+700,University of Haifa,17353,17.7,0.03,1.9411764705882353
+700,Hamburg University of Technology,4668,28.9,0.23,0.3888888888888889
+700,Hazara University Mansehra,12145,26.5,0.0,0.35135135135135137
+700,University of Hertfordshire,18781,15.5,0.38,1.173913043478261
+700,University of Houston,46958,27.0,0.07,1.0833333333333333
+700,University of Huddersfield,14411,19.8,0.26,1.380952380952381
+700,Icesi University,6279,8.0,0.02,1.127659574468085
+700,Ilam University of Medical Sciences,2687,13.0,0.04,1.127659574468085
+700,Imam Abdulrahman Bin Faisal University,22059,8.7,0.04,9.0
+700,Indian Institute of Technology Indore,2001,11.7,0.0,0.28205128205128205
+700,Indraprastha Institute of Information Technology Delhi,2399,23.1,0.02,0.2987012987012987
+700,"International Islamic University, Islamabad",25221,25.1,0.07,1.127659574468085
+700,Iran University of Medical Sciences,8840,8.3,0.05,1.3255813953488371
+700,Istanbul Technical University,18562,24.2,0.15,0.5873015873015873
+700,Jagiellonian University,34725,9.6,0.11,2.0303030303030303
+700,Jamia Hamdard University,9636,20.0,0.03,0.8181818181818182
+700,Jawaharlal Nehru University,8840,14.2,0.02,0.8518518518518519
+700,Jiangsu University,35687,9.5,0.06,0.7241379310344828
+700,Jinan University,41858,16.6,0.27,1.2727272727272727
+700,University of Johannesburg,29167,25.1,0.15,1.2222222222222223
+700,Jonkoping University,6762,13.0,0.14,1.5
+700,The University of Jordan,30380,13.4,0.13,1.9411764705882353
+700,Jouf University,19826,9.8,0.03,1.5
+700,University of Kaiserslautern,8572,28.8,0.22,0.5384615384615384
+700,Kalasalingam Academy of Research and Education,7365,8.8,0.03,1.2222222222222223
+700,Kansai Medical University,1086,1.3,0.02,1.0833333333333333
+700,University of Kashan,8190,27.2,0.03,1.173913043478261
+700,Universiti Kebangsaan Malaysia,16873,10.1,0.14,1.380952380952381
+700,KIIT University,24796,12.3,0.09,0.9607843137254902
+700,King Saud bin Abdulaziz University for Health Sciences,7870,11.3,0.01,1.0
+700,Konkuk University,13375,26.2,0.14,0.9607843137254902
+700,Kore University of Enna,5053,14.5,0.01,2.125
+700,University of Kurdistan,12924,34.6,0.05,1.127659574468085
+700,Lahore University of Management Sciences,4499,13.8,0.01,0.7241379310344828
+700,Lehigh University,6459,11.1,0.18,0.8518518518518519
+700,University of Limerick,14733,25.1,0.2,1.0
+700,London South Bank University,13051,16.9,0.35000000000000003,1.2727272727272727
+700,University of Lorraine,61210,20.2,0.17,1.127659574468085
+700,Louisiana State University,29191,18.2,0.05,1.173913043478261
+700,Lviv Polytechnic National University,21367,10.5,0.01,0.7241379310344828
+700,Maharishi Markandeshwar University,9053,13.3,0.1,0.7543859649122807
+700,Majmaah University,20844,14.2,0.02,0.8518518518518519
+700,University of Malakand,7757,27.1,0.01,0.4084507042253521
+700,Manchester Metropolitan University,29197,15.9,0.19,1.380952380952381
+700,Mansoura University,161977,47.5,0.03,1.0833333333333333
+700,Marche Polytechnic University,10544,22.4,0.05,0.8518518518518519
+700,"University of Maryland, Baltimore County",11456,16.8,0.08,0.8518518518518519
+700,Mashhad University of Medical Sciences,9148,9.7,0.04,1.380952380952381
+700,Massey University,17534,16.1,0.29,1.7777777777777777
+700,Medical University of Lodz,10294,8.6,0.1,2.3333333333333335
+700,Memorial University of Newfoundland,16098,14.9,0.21,1.2727272727272727
+700,Minia University,75566,17.9,0.01,1.173913043478261
+700,Mizzou - University of Missouri,25113,11.8,0.04,1.2222222222222223
+700,University of Mohaghegh Ardabili,11435,28.7,0.0,1.2727272727272727
+700,University of Nairobi,52678,34.5,0.02,0.3157894736842105
+700,University of Namibia,29369,21.8,0.03,1.7777777777777777
+700,Nantes Universite,36281,24.0,0.11,1.2222222222222223
+700,National Cheng Kung University,20080,15.1,0.12,0.5873015873015873
+700,National University of Science and Technology,7300,11.1,0.26,0.6666666666666666
+700,National Taiwan University of Science and Technology,8906,17.9,0.18,0.42857142857142855
+700,National Institute of Technology Silchar,3900,13.9,0.03,0.26582278481012656
+700,National Yunlin University of Science and Technology,9135,21.8,0.06,0.7543859649122807
+700,Near East University,20103,24.5,0.8300000000000001,0.7543859649122807
+700,"University of Nevada, Las Vegas",26730,23.2,0.04,1.3255813953488371
+700,University of New Brunswick UNB,8661,14.7,0.15,1.0408163265306123
+700,New Jersey Institute of Technology,9757,14.6,0.24,0.3698630136986301
+700,University of North Carolina at Charlotte,27579,20.5,0.05,0.9607843137254902
+700,North South University,24760,30.9,0.0,0.7241379310344828
+700,North-West University,40095,24.3,0.03,1.564102564102564
+700,Norwegian University of Life Sciences,6786,7.6,0.12,1.3255813953488371
+700,NOVA University of Lisbon,20996,17.8,0.23,1.0408163265306123
+700,"University of Occupational and Environmental Health, Japan",1157,2.5,0.02,1.0833333333333333
+700,Oklahoma State University,21250,14.0,0.06,1.0408163265306123
+700,Ontario Tech University,8969,28.6,0.08,0.7857142857142857
+700,The Open University,68390,31.6,0.08,1.8571428571428572
+700,Oxford Brookes University,13574,14.2,0.25,1.4390243902439024
+700,University of Parma,28210,32.1,0.06,1.380952380952381
+700,Universidad Peruana Cayetano Heredia,6028,6.7,0.0,2.0303030303030303
+700,University of Perugia,24943,25.1,0.06,1.380952380952381
+700,Plekhanov Russian University of Economics,13994,8.7,0.13,1.7777777777777777
+700,Polytechnic University of Bari,9998,43.1,0.01,0.42857142857142855
+700,Polytechnic University of Turin,29428,30.4,0.14,0.42857142857142855
+700,Prince Sattam Bin Abdulaziz University,27117,12.2,0.02,1.380952380952381
+700,Universiti Putra Malaysia,18365,11.1,0.26,1.4390243902439024
+700,Qingdao University,42667,15.2,0.02,1.7777777777777777
+700,Universite du Quebec,50418,17.9,0.12,1.3255813953488371
+700,University of Regina,14172,24.7,0.27,1.4390243902439024
+700,Rensselaer Polytechnic Institute,7475,14.7,0.21,0.47058823529411764
+700,Riga Stradi<U+0146><U+0161> University,8512,19.5,0.28,2.8461538461538463
+700,Riphah International University,23590,21.5,0.0,1.0
+700,Rovira i Virgili University,12975,12.6,0.13,1.5
+700,RUDN University,21820,14.0,0.32,1.380952380952381
+700,Universiti Sains Malaysia,23492,11.6,0.17,1.7777777777777777
+700,San Diego State University,31340,27.5,0.07,1.2727272727272727
+700,University of Sannio,2944,15.4,0.02,1.0408163265306123
+700,University of Santiago de Compostela,24713,14.5,0.09,1.631578947368421
+700,Savitribai Phule Pune University,5163,12.1,0.06,0.7543859649122807
+700,University of Campania Luigi Vanvitelli,33663,35.1,0.02,0.5873015873015873
+700,Shanghai University,37499,13.1,0.07,1.0
+700,"Soochow University, China",47989,15.5,0.05,1.173913043478261
+700,Southern Cross University,10866,36.1,0.28,1.7777777777777777
+700,University of Strasbourg,51028,19.8,0.21,1.4390243902439024
+700,Sultan Qaboos University,7436,8.6,0.04,1.0
+700,University of the Sunshine Coast,11118,29.6,0.16,2.225806451612903
+700,SUNY Binghamton University,18852,22.0,0.11,1.0
+700,University of Tabriz,20983,27.2,0.06,0.9607843137254902
+700,Tabriz University of Medical Sciences,8524,9.9,0.02,1.173913043478261
+700,Taif University,39622,19.6,0.02,1.2727272727272727
+700,Tallinn University of Technology,8739,12.6,0.17,0.6666666666666666
+700,University of Tehran,45295,21.5,0.02,0.8181818181818182
+700,Tehran University of Medical Sciences,11605,6.4,0.11,1.3255813953488371
+700,Universiti Teknologi Malaysia,19974,13.5,0.2,0.8867924528301887
+700,University of Texas at Arlington,33537,29.5,0.13,1.5
+700,The University of Texas at San Antonio,27187,24.7,0.03,1.0408163265306123
+700,Thapar Institute of Engineering and Technology,9375,16.9,0.01,0.3888888888888889
+700,University of Toledo,17871,16.1,0.1,1.0833333333333333
+700,TU Braunschweig,19676,9.8,0.17,0.6666666666666666
+700,University of Ulsan,12415,11.0,0.04,0.9230769230769231
+700,Ulster University,17683,18.8,0.09,1.3255813953488371
+700,Umm Al-Qura University,30207,8.3,0.11,0.5151515151515151
+700,Paris Lodron Universitat Salzburg,7169,11.9,0.34,1.9411764705882353
+700,Wenzhou University,21827,18.2,0.03,1.380952380952381
+700,University of the Western Cape,23510,33.8,0.06,1.564102564102564
+700,University of the West of Scotland,12122,22.1,0.2,1.7027027027027026
+700,University of Wolverhampton,14898,17.3,0.24,1.631578947368421
+700,University of Wuppertal,15668,39.6,0.1,1.127659574468085
+700,Xi’an Jiaotong-Liverpool University,15767,19.9,0.05,1.0833333333333333
+700,Yokohama City University,5073,6.0,0.02,1.2727272727272727
+700,Zhengzhou University,70824,17.5,0.03,0.9607843137254902
+900,University of the Aegean,22148,68.4,0.01,1.2222222222222223
+900,"University of Agriculture, Faisalabad",27826,42.4,0.0,0.8181818181818182
+900,The University of Aizu,1217,12.1,0.09,0.12359550561797752
+900,The University of Alabama,35457,20.9,0.04,1.2727272727272727
+900,Al-Azhar University,425977,38.4,0.06,0.6129032258064516
+900,Al-Balqa Applied University,28178,27.7,0.02,1.4390243902439024
+900,University of Alcala,15941,10.2,0.24,1.5
+900,Alexandria University,202206,28.2,0.04,1.0833333333333333
+900,Aligarh Muslim University,20428,12.1,0.02,0.6666666666666666
+900,American University in Cairo,5921,13.7,0.05,1.2727272727272727
+900,Anna University,15149,15.9,0.01,0.7543859649122807
+900,University of Applied Sciences and Arts of Western Switzerland,17491,6.5,0.3,1.127659574468085
+900,Aristotle University of Thessaloniki,49840,19.7,0.05,1.380952380952381
+900,Athens University of Economics and Business,9682,51.0,0.06,0.8181818181818182
+900,Universidad Autonoma de Chile,27474,22.9,0.01,1.7027027027027026
+900,University of Aveiro,12566,15.1,0.1,1.173913043478261
+900,University of the Balearic Islands,11493,11.8,0.08,1.5
+900,University of the Basque Country,43018,15.4,0.06,1.2222222222222223
+900,University of Bedfordshire,13173,29.7,0.59,1.4390243902439024
+900,University of Beira Interior,7861,17.0,0.22,1.127659574468085
+900,University of Belgrade,93251,18.9,0.05,1.631578947368421
+900,Beni-Suef University,82124,28.3,0.01,1.0
+900,University of Bergamo,22115,60.9,0.07,1.631578947368421
+900,Bharathiar University,4097,18.8,0.0,1.7027027027027026
+900,Bilkent University,9682,14.2,0.08,0.8518518518518519
+900,"Birla Institute of Technology and Science, Pilani",15651,18.1,0.02,0.2345679012345679
+900,Bo<U+011F>azici University,12614,22.3,0.03,0.8181818181818182
+900,University of Brighton,15016,16.8,0.22,1.5
+900,Cairo University,224216,36.8,0.04,1.173913043478261
+900,University of Calabria,19788,23.2,0.03,1.3255813953488371
+900,Chapman University,9332,12.8,0.08,1.564102564102564
+900,Institute of Chemical Technology,2550,17.2,0.0,0.42857142857142855
+900,Chengdu University,22762,16.3,0.02,1.4390243902439024
+900,Chulalongkorn University,34095,11.5,0.03,1.380952380952381
+900,Clemson University,23491,15.5,0.06,0.9607843137254902
+900,University of Clermont Auvergne,36630,20.9,0.15,1.3255813953488371
+900,Coventry University,32819,16.1,0.47000000000000003,0.9230769230769231
+900,CY Cergy Paris University,14999,19.6,0.23,1.0833333333333333
+900,University of Dayton,11183,16.5,0.11,0.9230769230769231
+900,University of Deusto,9518,20.1,0.11,1.380952380952381
+900,Diego Portales University,17613,16.0,0.02,1.0
+900,Donghua University,22434,14.4,0.06,0.8181818181818182
+900,Duzce University,21552,35.5,0.08,0.7857142857142857
+900,Edge Hill University,10990,15.3,0.07,2.225806451612903
+900,"University of Engineering and Technology, Peshawar",8680,20.7,0.01,0.06382978723404255
+900,Federal University of Minas Gerais,40998,12.9,0.01,1.127659574468085
+900,Universidade Federal de Sergipe,26327,15.8,0.0,1.0408163265306123
+900,Firat University,39961,20.6,0.05,0.5873015873015873
+900,Florida Agricultural and Mechanical University,9342,16.8,0.01,1.9411764705882353
+900,Florida Atlantic University,24191,18.7,0.1,1.7777777777777777
+900,University of Foggia,11292,31.8,0.01,1.7027027027027026
+900,University of the Free State,33826,36.8,0.02,1.7027027027027026
+900,Fujita Health University,3082,3.8,0.01,1.3255813953488371
+900,Fuzhou University,39987,16.8,0.01,0.639344262295082
+900,University of Girona,14011,21.1,0.15,1.3255813953488371
+900,Guangdong University of Technology,46040,18.1,0.0,0.4084507042253521
+900,Hiroshima University,14612,8.1,0.09,0.5873015873015873
+900,Indian Institute of Technology Patna,2203,17.9,0.0,0.21951219512195122
+900,Indian Institute of Technology Gandhinagar,1782,15.1,0.01,0.35135135135135137
+900,Universitat Internacional de Catalunya,5172,14.0,0.34,1.7027027027027026
+900,University of Ioannina,32168,39.6,0.03,2.225806451612903
+900,ISCTE-University Institute of Lisbon,9374,24.9,0.17,1.0833333333333333
+900,The Islamia University of Bahawalpur,35698,28.5,0.0,0.8518518518518519
+900,Istanbul Medeniyet University,10536,13.4,0.03,1.0833333333333333
+900,ITMO University,10814,15.0,0.22,0.5151515151515151
+900,Iuliu Ha<U+0163>ieganu University of Medicine and Pharmacy Cluj-Napoca,8017,7.9,0.33,1.9411764705882353
+900,University of Jaen,13767,16.4,0.09,1.3255813953488371
+900,Juntendo University,5980,4.6,0.03,1.2222222222222223
+900,Kansas State University,19927,13.1,0.07,1.0408163265306123
+900,Kazan Federal University,22673,10.4,0.29,1.9411764705882353
+900,Keio University,33636,10.1,0.08,0.5873015873015873
+900,Kindai University,33234,14.6,0.02,0.47058823529411764
+900,King Faisal University,27805,13.1,0.02,2.0303030303030303
+900,King Khalid University,39389,8.3,0.07,1.2222222222222223
+900,King Mongkut’s University of Technology Thonburi,15116,19.8,0.02,0.8518518518518519
+900,Kingston University,14975,19.4,0.43,1.380952380952381
+900,KL University,17801,14.5,0.02,0.5625
+900,Kobe University,15477,10.3,0.08,0.5625
+900,Kuwait University,24680,15.2,0.15,3.1666666666666665
+900,Kyungpook National University,18892,20.2,0.13,0.8867924528301887
+900,University of Lahore,27149,14.8,0.02,0.5873015873015873
+900,Lakehead University,8365,25.8,0.21,1.2222222222222223
+900,University of La Laguna,18270,12.8,0.05,1.380952380952381
+900,University of Latvia,11877,32.7,0.07,2.125
+900,Leeds Beckett University,18944,20.2,0.13,1.173913043478261
+900,Lithuanian University of Health Sciences,6167,8.6,0.22,3.0
+900,University of Ljubljana,37615,13.1,0.08,1.5
+900,University of Lleida,9164,15.4,0.1,1.4390243902439024
+900,Lovely Professional University,33469,14.8,0.06,0.3157894736842105
+900,Mae Fah Luang University,13802,21.0,0.04,2.7037037037037037
+900,Mahidol University,28477,9.0,0.05,1.7777777777777777
+900,Makerere University,31233,21.0,0.03,1.0408163265306123
+900,Universiti Malaysia Pahang,8140,13.3,0.07,0.9230769230769231
+900,University of Malta,9687,10.7,0.13,1.5
+900,Manipal Academy of Higher Education,23002,9.0,0.12,0.9607843137254902
+900,Marquette University,10540,12.0,0.03,1.3255813953488371
+900,Masaryk University,32271,18.9,0.23,1.631578947368421
+900,Medical University of Gda<U+0144>sk,6344,5.6,0.16,1.8571428571428572
+900,University of Memphis,16520,14.7,0.05,1.5
+900,University of Minho,19922,19.6,0.16,1.2222222222222223
+900,Mississippi State University,21810,15.2,0.03,1.0833333333333333
+900,University of Missouri-St Louis,6365,15.8,0.05,1.380952380952381
+900,Montana State University,14094,16.0,0.03,0.8867924528301887
+900,Monterrey Institute of Technology,15735,14.3,0.1,0.7543859649122807
+900,University of Namur,6753,20.8,0.12,1.3255813953488371
+900,Nanjing Normal University,31211,13.0,0.02,2.3333333333333335
+900,National Institute of Applied Sciences of Lyon,6382,18.9,0.27,0.5625
+900,Ecole Nationale des Travaux Publics de l'Etat,809,15.3,0.13,0.7241379310344828
+900,National University of Sciences and Technology,11737,9.4,0.05,0.5151515151515151
+900,National Sun Yat-Sen University,8150,12.3,0.08,0.6666666666666666
+900,National Technical University of Athens,13732,19.9,0.06,0.4925373134328358
+900,National Institute of Technology Hamirpur,3823,20.7,0.0,0.28205128205128205
+900,"National Institute of Technology, Tiruchirappalli",7037,18.5,0.02,0.2987012987012987
+900,The New School,9692,9.7,0.35000000000000003,2.8461538461538463
+900,New Mexico State University,12285,16.0,0.06,1.380952380952381
+900,Nippon Medical School,905,0.9,0.0,0.5873015873015873
+900,University of North Carolina at Greensboro,18637,19.5,0.03,2.0303030303030303
+900,Northeast Normal University,30310,18.7,0.04,2.3333333333333335
+900,University of Northern British Columbia,3008,15.6,0.11,1.7027027027027026
+900,Northern Illinois University,13768,14.4,0.07,1.127659574468085
+900,Ohio University,22682,20.1,0.04,1.3255813953488371
+900,Old Dominion University,18368,17.5,0.03,1.2727272727272727
+900,Ozyegin University,5958,27.2,0.07,0.7857142857142857
+900,Pablo de Olavide University,12849,14.4,0.18,1.4390243902439024
+900,University of Palermo,32351,22.4,0.01,1.380952380952381
+900,Panjab University,18918,17.6,0.01,0.6949152542372882
+900,Pantheon-Sorbonne University – Paris 1,35547,29.0,0.2,1.564102564102564
+900,Parthenope University of Naples,11555,33.7,0.02,0.7241379310344828
+900,Universiti Pendidikan Sultan Idris,5968,9.9,0.18,1.2222222222222223
+900,University of Peshawar,6107,9.0,0.01,0.47058823529411764
+900,University of the Philippines,46714,10.6,0.0,1.0833333333333333
+900,Universitat Politecnica de Catalunya,22280,9.5,0.14,0.3698630136986301
+900,Polytechnic University of Valencia,23406,12.7,0.14,0.6949152542372882
+900,Pontifical Catholic University of Rio de Janeiro,13453,18.7,0.03,1.0
+900,Pontifical Catholic University of Rio Grande do Sul,14096,21.3,0.01,1.0833333333333333
+900,Pontifical Javeriana University,27346,14.2,0.02,1.2222222222222223
+900,University of Pretoria,36492,21.7,0.07,1.4390243902439024
+900,University of the Punjab,28384,22.4,0.01,1.0833333333333333
+900,University of Rennes 1,28275,18.5,0.11,1.0833333333333333
+900,University of Rhode Island,15851,14.5,0.03,1.3255813953488371
+900,Rhodes University,6872,17.0,0.14,1.7027027027027026
+900,University of Roehampton,7782,16.1,0.33,2.225806451612903
+900,University of Rome III,33264,47.7,0.05,1.564102564102564
+900,Roskilde University,6100,15.8,0.16,1.7777777777777777
+900,Saint Petersburg State University,24335,9.1,0.19,1.564102564102564
+900,University of Salamanca,27920,16.9,0.18,1.631578947368421
+900,University of Salento,13608,22.6,0.01,1.631578947368421
+900,University of Salford,18218,18.7,0.2,1.2222222222222223
+900,University of Science and Technology Beijing,28432,16.1,0.04,0.5625
+900,Sechenov University,16366,8.1,0.24,2.3333333333333335
+900,University of La Serena,7643,25.5,0.01,1.0833333333333333
+900,Shahid Beheshti University,19695,23.4,0.01,1.0
+900,Shantou University,14119,12.2,0.01,0.8181818181818182
+900,Sheffield Hallam University,25651,17.2,0.13,1.2222222222222223
+900,Shiraz University,14552,20.2,0.01,1.127659574468085
+900,Shiraz University of Medical Sciences,10228,10.4,0.03,1.3255813953488371
+900,University of Siegen,12633,26.4,0.12,1.2727272727272727
+900,University of South Bohemia in <U+010C>eske Bud<U+011B>jovice,8763,13.8,0.07,2.225806451612903
+900,Southern Illinois University Carbondale,10130,13.8,0.07,1.0
+900,South Ural State University,19373,14.4,0.1,0.639344262295082
+900,Suez Canal University,38962,11.4,0.01,1.380952380952381
+900,Sunway University,4638,8.6,0.15,1.127659574468085
+900,Symbiosis International University,16305,13.0,0.06,1.173913043478261
+900,Taibah University,59028,21.7,0.03,1.631578947368421
+900,Tanta University,129209,19.2,0.01,1.173913043478261
+900,"University of Technology, Iraq",10321,6.9,0.0,1.0
+900,Universiti Tenaga Nasional,4987,11.4,0.11,0.5151515151515151
+900,University of Texas at El Paso,17908,30.2,0.07,1.173913043478261
+900,Texas Tech University,35957,19.4,0.07,0.9607843137254902
+900,University of Thessaly,21962,30.2,0.02,1.0833333333333333
+900,Toronto Metropolitan University,36218,42.4,0.08,1.2727272727272727
+900,Tribhuvan University,460632,30.9,0.0,1.0
+900,University of Urbino Carlo Bo,15336,42.1,0.06,1.631578947368421
+900,Vilnius University,17012,10.2,0.09,2.225806451612903
+900,VIT University,33416,17.0,0.04,0.42857142857142855
+900,University of Warsaw,37090,12.0,0.1,1.7027027027027026
+900,Wenzhou Medical University,19243,11.2,0.05,1.7027027027027026
+900,University of Winchester,7291,16.8,0.1,1.9411764705882353
+900,University of Wisconsin-Milwaukee,19218,19.3,0.05,1.2727272727272727
+900,Worcester Polytechnic Institute,5949,12.7,0.19,0.6129032258064516
+900,University of Wyoming,10660,14.7,0.05,1.0408163265306123
+900,Yangzhou University,31066,13.3,0.11,1.380952380952381
+900,Yeungnam University,19345,15.0,0.04,1.0
+900,Zagazig University,165556,26.4,0.02,1.0833333333333333
+900,Zewail City of Science and Technology,1184,11.6,0.0,0.7241379310344828
+900,Zhejiang University of Finance and Economics,17260,21.3,0.03,1.7027027027027026
+1100,University of A Coruna,14937,12.2,0.05,1.0833333333333333
+1100,"Adam Mickiewicz University, Pozna<U+0144>",35901,23.9,0.04,2.125
+1100,Ain Shams University,138700,12.5,0.04,1.127659574468085
+1100,Al-Farabi Kazakh National University,24229,5.7,0.15,1.2727272727272727
+1100,University of Algarve,8443,14.0,0.22,1.380952380952381
+1100,University of Almeria,13050,17.5,0.12,1.2222222222222223
+1100,Amity University,31383,16.2,0.06,1.0833333333333333
+1100,University of Anbar,26521,15.9,0.0,1.2727272727272727
+1100,"University of the Andes, Colombia",15312,12.7,0.01,0.8181818181818182
+1100,Arts et Metiers,6230,16.5,0.14,0.21951219512195122
+1100,Assiut University,84941,14.9,0.01,1.2222222222222223
+1100,At<U+0131>l<U+0131>m University,8325,11.1,0.07,0.7241379310344828
+1100,Autonomous University of Sinaloa,74001,21.8,0.0,1.2727272727272727
+1100,Babe<U+015F>-Bolyai University,39811,21.0,0.04,1.7777777777777777
+1100,Bahauddin Zakariya University,29880,36.7,0.0,0.6666666666666666
+1100,Bayero University,44410,25.9,0.0,0.4925373134328358
+1100,University of Botswana,13063,17.6,0.04,1.3255813953488371
+1100,Bowling Green State University,15199,15.7,0.04,1.3255813953488371
+1100,Instituto Politecnico de Braganca,8845,19.4,0.32,1.173913043478261
+1100,University of Burgos,7599,13.5,0.05,1.0408163265306123
+1100,University of Calcutta,19119,15.6,0.0,1.0408163265306123
+1100,Cardiff Metropolitan University,9381,18.6,0.22,1.173913043478261
+1100,Carlos III University of Madrid,18133,11.0,0.17,0.8518518518518519
+1100,Technical University of Cartagena,4466,10.0,0.09,0.3698630136986301
+1100,University of Castilla-La Mancha,22524,12.8,0.08,1.3255813953488371
+1100,Universidad Catolica San Antonio de Murcia,10727,19.5,0.15,1.2727272727272727
+1100,University of Central Lancashire,19284,14.4,0.25,1.380952380952381
+1100,Chang Gung University,7016,12.1,0.05,0.9607843137254902
+1100,Charles Sturt University,22735,20.2,0.2,1.564102564102564
+1100,Chiang Mai University,34110,14.0,0.03,1.9411764705882353
+1100,Chiba University,13640,8.5,0.05,0.6129032258064516
+1100,University of Chile,37286,15.5,0.05,1.0
+1100,"China University of Geosciences, Beijing",16758,16.6,0.01,0.6949152542372882
+1100,China Pharmaceutical University,24270,22.4,0.02,2.225806451612903
+1100,Chonnam National University,24436,19.9,0.06,0.9230769230769231
+1100,Clarkson University,4024,14.9,0.09,0.5384615384615384
+1100,Comenius University in Bratislava,21788,10.6,0.14,1.7777777777777777
+1100,Creighton University,9641,14.9,0.04,1.5
+1100,Czech University of Life Sciences Prague,18057,17.6,0.22,1.173913043478261
+1100,University of Debrecen,29045,17.7,0.22,1.2222222222222223
+1100,University of Delhi,27471,25.6,0.01,0.9230769230769231
+1100,Dr B.R. Ambedkar National Institute of Technology Jalandhar,5016,23.7,0.0,0.2987012987012987
+1100,East China University of Science and Technology,28718,16.9,0.02,0.7857142857142857
+1100,University of East London,12180,21.9,0.44,1.380952380952381
+1100,Ecole Centrale de Lyon,2108,14.3,0.26,0.3157894736842105
+1100,University of Engineering & Technology,13163,13.9,0.03,0.2987012987012987
+1100,Universidade Estadual Paulista,42008,15.6,0.03,1.0408163265306123
+1100,European University of Madrid,10684,10.7,0.32,0.9607843137254902
+1100,University of Extremadura,20509,11.2,0.02,1.2727272727272727
+1100,Federal University of Rio de Janeiro,45747,11.4,0.01,1.2222222222222223
+1100,Universidade Federal de Santa Catarina,38751,16.1,0.02,0.9607843137254902
+1100,Federal University of Technology Akure,19593,21.1,0.0,0.3888888888888889
+1100,Ferdowsi University of Mashhad,25269,30.9,0.09,1.173913043478261
+1100,Florida Institute of Technology,5091,14.9,0.25,0.5384615384615384
+1100,University of Fortaleza,21115,18.5,0.0,1.0408163265306123
+1100,Fu Jen Catholic University,18619,29.0,0.05,1.380952380952381
+1100,Fujian Agriculture and Forestry University,29188,16.9,0.01,1.173913043478261
+1100,University of Ghana,54256,32.4,0.01,0.9230769230769231
+1100,Guangxi University,39172,19.8,0.02,0.8518518518518519
+1100,University of Gujrat,11975,23.5,0.0,1.380952380952381
+1100,Guru Jambheshwar University of Science and Technology,6420,19.3,0.0,0.7857142857142857
+1100,Hakim Sabzevari University,7940,19.8,0.04,1.127659574468085
+1100,Hamamatsu University School of Medicine,1204,4.6,0.02,0.9607843137254902
+1100,Huaqiao University,31351,17.2,0.18,1.127659574468085
+1100,Hyogo College of Medicine,937,2.2,0.0,0.42857142857142855
+1100,Ibn Tofail University,51802,71.9,0.03,0.9607843137254902
+1100,Ilia State University,16196,10.2,0.03,1.7027027027027026
+1100,Ilmenau University of Technology,5425,17.4,0.3,0.3888888888888889
+1100,IMT Nord Europe,1484,16.1,0.21,0.2987012987012987
+1100,"Indian Institute of Science Education and Research, Pune",1512,10.4,0.0,0.4492753623188406
+1100,Indian Institute of Science Education and Research Kolkata,1563,12.3,0.0,0.3888888888888889
+1100,Indian Institute of Technology Bhubaneswar,2102,14.7,0.0,0.19047619047619047
+1100,Indian Institute of Technology Guwahati,6353,13.8,0.01,0.28205128205128205
+1100,Indian Institute of Technology,7002,20.7,0.01,0.19047619047619047
+1100,Indian Institute of Technology Mandi,1587,11.6,0.01,0.35135135135135137
+1100,University of Indonesia,41123,8.6,0.14,2.125
+1100,Inha University,17103,21.0,0.08,0.7241379310344828
+1100,Isfahan University of Medical Sciences,10102,10.2,0.02,1.7027027027027026
+1100,Isfahan University of Technology,11323,23.5,0.01,0.6666666666666666
+1100,Istanbul University,59250,25.1,0.08,1.127659574468085
+1100,Istanbul University-Cerrahpa<U+015F>a,25638,21.7,0.03,0.5625
+1100,Jadavpur University,14217,21.7,0.0,0.42857142857142855
+1100,Jaume I University,11495,14.6,0.1,1.380952380952381
+1100,University of Jeddah,26236,13.9,0.02,2.0303030303030303
+1100,Jeonbuk National University,20453,19.9,0.07,0.8518518518518519
+1100,Jiangxi University of Finance and Economics,24395,18.5,0.02,1.2222222222222223
+1100,The Jikei University School of Medicine,1093,0.9,0.0,0.7857142857142857
+1100,Kanazawa University,9886,9.4,0.07,0.639344262295082
+1100,Kaohsiung Medical University,6490,11.8,0.06,1.4390243902439024
+1100,Kharkiv National University of Radio Electronics,7704,9.9,0.1,0.35135135135135137
+1100,K.N. Toosi University of Technology,8403,26.6,0.02,0.5151515151515151
+1100,Kumamoto University,9536,10.0,0.06,0.6129032258064516
+1100,Kwame Nkrumah University of Science and Technology,87443,78.1,0.01,0.7543859649122807
+1100,Kyoto Prefectural University of Medicine,1371,3.4,0.01,0.8518518518518519
+1100,University of Las Palmas de Gran Canaria,15612,16.9,0.08,1.380952380952381
+1100,Lebanese University,46256,14.8,0.16,2.3333333333333335
+1100,University of Leoben,2604,4.6,0.17,0.3157894736842105
+1100,University of Leon,14828,15.3,0.05,1.2727272727272727
+1100,Lorestan University,9059,23.6,0.01,1.3255813953488371
+1100,Lusophone University of Humanities and Technologies,7544,10.7,0.22,1.127659574468085
+1100,Universiti Malaysia Perlis,10937,13.6,0.05,0.8181818181818182
+1100,University of Manouba,16315,12.1,0.01,1.4390243902439024
+1100,University of Maragheh,3146,19.9,0.0,1.2727272727272727
+1100,University of Marrakech Cadi Ayyad,110826,44.8,0.01,1.0
+1100,University of Mauritius,8710,21.5,0.01,1.2222222222222223
+1100,University of Mazandaran,13320,33.1,0.06,1.631578947368421
+1100,Medical University of Bialystok,5494,12.7,0.08,3.1666666666666665
+1100,Menoufia University,100182,34.3,0.0,0.7543859649122807
+1100,Miguel Hernandez University of Elche,12276,17.0,0.07,0.9230769230769231
+1100,Morgan State University,6129,11.7,0.08,1.4390243902439024
+1100,University of Murcia,26351,16.0,0.08,1.4390243902439024
+1100,Nanjing University of Aeronautics and Astronautics,32300,15.6,0.03,0.42857142857142855
+1100,National Autonomous University of Mexico,172729,17.4,0.04,1.0833333333333333
+1100,National Central University,10853,9.7,0.09,0.5625
+1100,National University of Colombia,42188,15.8,0.01,0.639344262295082
+1100,National Taipei University of Technology,9873,15.7,0.11,0.3888888888888889
+1100,National Taiwan Ocean University,8905,21.0,0.06,0.4925373134328358
+1100,National Institute of Technology Rourkela,7583,20.6,0.04,0.2987012987012987
+1100,Necmettin Erbakan University,18420,13.4,0.13,1.0408163265306123
+1100,Niigata University,12037,7.6,0.03,0.6129032258064516
+1100,Northwest University,26073,14.0,0.01,1.127659574468085
+1100,Oakland University,15413,17.8,0.04,1.380952380952381
+1100,Obuda University,11804,38.4,0.06,0.26582278481012656
+1100,Okayama University,13012,10.4,0.1,0.6666666666666666
+1100,University of Oviedo,18599,11.6,0.02,1.127659574468085
+1100,Palacky University Olomouc,18673,14.5,0.13,2.225806451612903
+1100,University of Patras,29393,25.6,0.06,1.0408163265306123
+1100,Pavol Jozef <U+0160>afarik University in Ko<U+0161>ice,6867,10.0,0.23,2.0303030303030303
+1100,University of Pecs,17711,12.6,0.23,1.3255813953488371
+1100,PMAS Arid Agriculture University Rawalpindi,11456,44.8,0.0,0.5873015873015873
+1100,Polytechnic Institute of Porto,18743,16.9,0.07,0.9230769230769231
+1100,Pondicherry University,7291,22.6,0.01,0.8867924528301887
+1100,Portland State University,18067,19.3,0.06,1.380952380952381
+1100,Port Said University,29534,29.8,0.0,0.9607843137254902
+1100,Public University of Navarre,7806,11.2,0.08,1.0408163265306123
+1100,University of Puerto Rico,47257,17.0,0.01,1.564102564102564
+1100,Pusan National University,21018,17.0,0.06,1.0408163265306123
+1100,Reichman University,8030,18.7,0.28,1.0408163265306123
+1100,University Rey Juan Carlos,43160,20.3,0.07,1.4390243902439024
+1100,Robert Gordon University,8954,19.1,0.25,1.5
+1100,Rochester Institute of Technology,14520,15.7,0.16,0.5625
+1100,Rowan University,17912,14.4,0.03,0.8867924528301887
+1100,Sahand University of Technology,4595,24.5,0.0,0.5384615384615384
+1100,Sakarya University,40331,25.1,0.08,1.173913043478261
+1100,Universidad San Francisco de Quito,10338,13.6,0.05,0.9607843137254902
+1100,University of Sargodha,23740,31.0,0.0,1.127659574468085
+1100,Semnan University of Medical Sciences and Health Services,3536,8.3,0.07,1.7777777777777777
+1100,University of Seville,49155,16.7,0.12,1.380952380952381
+1100,Shahid Beheshti University of Medical Sciences,12850,8.7,0.03,1.380952380952381
+1100,Shahrekord University,7268,21.1,0.0,1.2727272727272727
+1100,Shahrood University of Technology,8221,21.1,0.01,0.7857142857142857
+1100,Shanghai Maritime University,23263,16.7,0.02,0.8518518518518519
+1100,Sidi Mohamed Ben Abdellah University,90045,53.3,0.02,0.9230769230769231
+1100,Siksha ‘O’ Anusandhan,13990,12.4,0.01,1.173913043478261
+1100,University of Social Welfare and Rehabilitation Sciences,1746,10.9,0.02,2.125
+1100,Sogang University,9625,24.0,0.15,0.8518518518518519
+1100,Sohag University,60248,26.4,0.0,1.2727272727272727
+1100,University of South Africa,236282,232.2,0.03,2.7037037037037037
+1100,University of South Dakota,7129,14.7,0.03,1.7027027027027026
+1100,University of the South Pacific,12052,36.6,0.01,1.380952380952381
+1100,South Valley University,52035,30.0,0.01,1.3255813953488371
+1100,University of South Wales,15623,15.4,0.21,1.127659574468085
+1100,University of Split,19363,16.3,0.02,1.3255813953488371
+1100,<U+015E>tefan cel Mare University of Suceava,9239,24.8,0.14,1.4390243902439024
+1100,St Marianna University School of Medicine,833,0.9,0.01,0.639344262295082
+1100,University of Sunderland,12049,15.8,0.4,1.5
+1100,SWPS University of Social Sciences and Humanities,14522,37.6,0.08,3.5454545454545454
+1100,University of Szeged,20023,12.5,0.22,1.2222222222222223
+1100,Tallinn University,4178,9.6,0.16,2.4482758620689653
+1100,Technical University of Crete,6597,31.6,0.04,0.5873015873015873
+1100,Technical University of Madrid,38976,15.6,0.16,0.47058823529411764
+1100,Technological University Dublin,20686,18.7,0.21,0.7857142857142857
+1100,Teesside University,13136,19.3,0.2,1.3255813953488371
+1100,University of Texas Rio Grande Valley,29420,23.5,0.03,1.5
+1100,Tokyo Medical University,1370,1.7,0.01,0.8181818181818182
+1100,Tokyo Metropolitan University,8829,10.6,0.06,0.639344262295082
+1100,Tomsk Polytechnic University,9077,9.8,0.3,0.4492753623188406
+1100,Toyota Technological Institute,489,9.4,0.02,0.08695652173913043
+1100,University of Tras-os-Montes and Alto Douro,7123,11.1,0.08,1.2222222222222223
+1100,Universiti Tunku Abdul Rahman,18183,15.8,0.03,1.0408163265306123
+1100,Ufa State Petroleum Technological University,13106,9.4,0.11,0.5625
+1100,Urmia University,13910,27.2,0.02,1.0
+1100,"University of Veterinary and Animal Sciences, Lahore",7087,19.6,0.01,1.0
+1100,"Vietnam National University, Hanoi",48070,15.3,0.01,1.7027027027027026
+1100,University of Vigo,17613,15.4,0.06,1.0408163265306123
+1100,Waseda University,46799,14.6,0.13,0.639344262295082
+1100,University of Westminster,16947,20.8,0.5,1.564102564102564
+1100,Wuhan University of Technology,55426,14.9,0.02,0.42857142857142855
+1100,Xidian University,37205,16.0,0.01,0.3698630136986301
+1100,Yarmouk University,36443,33.2,0.1,2.225806451612903
+1100,Yasouj University,5713,23.6,0.0,1.2727272727272727
+1100,Y<U+0131>ld<U+0131>z Technical University,25532,26.0,0.11,0.9230769230769231
+1100,University of Zaragoza,28085,10.1,0.08,1.173913043478261
+1100,Zhejiang Gongshang University,22676,15.8,0.05,1.564102564102564
+1100,University of <U+017D>ilina,7545,13.4,0.03,0.5384615384615384
+1100,University of Zimbabwe,20598,23.9,0.0,1.0408163265306123
+1350,Universite 8 Mai 1945 Guelma,17530,20.1,0.01,2.0303030303030303
+1350,Abdelmalek Essaadi University,112677,88.2,0.01,1.0
+1350,Acharya Nagarjuna University,4872,7.9,0.07,0.6129032258064516
+1350,Ac<U+0131>badem University,2784,6.1,0.03,2.8461538461538463
+1350,Adolfo Ibanez University,10573,25.7,0.05,0.6129032258064516
+1350,AGH University of Science and Technology,20240,12.7,0.03,0.5384615384615384
+1350,Aichi Medical University,1323,2.9,0.01,1.3255813953488371
+1350,Universitas Airlangga,26142,7.7,0.02,1.9411764705882353
+1350,Akdeniz University,44434,32.7,0.03,0.4925373134328358
+1350,University of Alicante,22094,14.4,0.1,1.380952380952381
+1350,Altai State University,9120,19.6,0.24,1.2222222222222223
+1350,Anadolu University,20815,17.0,0.03,1.127659574468085
+1350,"University of the Andes, Chile",9405,18.9,0.03,1.380952380952381
+1350,Andhra University,9048,13.2,0.06,0.9607843137254902
+1350,Universidad Andres Bello,46325,19.5,0.04,1.173913043478261
+1350,Ankara University,71311,15.2,0.05,0.8518518518518519
+1350,University of Antioquia,38437,21.5,0.0,1.0408163265306123
+1350,"Arab Academy for Science, Technology and Maritime Transport",32049,13.8,0.12,0.4925373134328358
+1350,Arak University,6379,21.3,0.06,2.0303030303030303
+1350,Ariel University,12418,20.7,0.0,0.9607843137254902
+1350,Ataturk University,56419,30.2,0.03,1.0408163265306123
+1350,Austral University of Chile,17434,17.5,0.01,1.127659574468085
+1350,Bandung Institute of Technology,20915,13.9,0.02,0.7857142857142857
+1350,Bangladesh Agricultural University,9918,17.3,0.01,0.5151515151515151
+1350,Bangladesh University of Engineering and Technology,6268,13.0,0.0,0.28205128205128205
+1350,University of Benin,47468,25.2,0.0,1.0
+1350,Bezmialem Vakif University,2904,9.5,0.06,2.4482758620689653
+1350,BINUS University,15331,14.3,0.04,0.6949152542372882
+1350,Bozok University,14642,16.8,0.06,1.0
+1350,University of Brasilia,45737,15.2,0.01,1.0833333333333333
+1350,The British University in Egypt,11042,16.2,0.03,0.8518518518518519
+1350,Brno University of Technology,18762,16.6,0.23,0.4084507042253521
+1350,Bu-Ali Sina University,10838,23.4,0.01,1.2727272727272727
+1350,University of Bucharest,31267,32.7,0.02,2.125
+1350,Budapest University of Technology and Economics,18728,17.0,0.12,0.4492753623188406
+1350,University of Cadiz,18672,16.8,0.09,1.2727272727272727
+1350,Canterbury Christ Church University,10739,17.7,0.14,2.225806451612903
+1350,University of Carthage,28962,9.9,0.01,2.0303030303030303
+1350,The Catholic University of Korea,9782,7.1,0.04,1.5
+1350,Catholic University of the North,11343,20.4,0.03,0.8867924528301887
+1350,Chang Gung University of Science and Technology,6326,26.5,0.01,9.0
+1350,"University of Chemistry and Technology, Prague",4006,8.0,0.22,1.380952380952381
+1350,University of Chester,10433,18.0,0.15,2.125
+1350,Chosun University,21073,27.3,0.03,0.9230769230769231
+1350,Chungbuk National University,17219,14.2,0.05,0.7857142857142857
+1350,Chungnam National University,21244,20.7,0.04,0.8867924528301887
+1350,Chung Yuan Christian University,15037,31.3,0.09,0.8518518518518519
+1350,Cochin University of Science and Technology,3969,16.9,0.01,1.5
+1350,University of Colorado Colorado Springs,12380,21.2,0.01,1.2222222222222223
+1350,University of Concepcion,28112,17.1,0.02,1.0833333333333333
+1350,Corvinus University of Budapest,11225,21.3,0.15,1.127659574468085
+1350,Czech Technical University in Prague,16217,8.8,0.2,0.2345679012345679
+1350,Damghan University,4980,28.6,0.0,1.631578947368421
+1350,De La Salle University,12941,14.9,0.03,1.0
+1350,Del Rosario University,11751,13.2,0.02,1.4390243902439024
+1350,Democritus University of Thrace,22230,37.0,0.04,1.2727272727272727
+1350,Dokuz Eylul University,56233,17.6,0.03,0.8867924528301887
+1350,Ege University,33062,18.5,0.04,1.3255813953488371
+1350,Ehime University,9204,13.3,0.02,0.6129032258064516
+1350,El Bosque University,12721,6.6,0.0,1.8571428571428572
+1350,The University of Electro-Communications,4662,15.4,0.06,0.13636363636363635
+1350,Erciyes University,50212,36.2,0.04,0.8867924528301887
+1350,Escuela Superior Politecnica del Litoral,11549,12.8,0.01,0.6129032258064516
+1350,Universidade do Estado do Rio de Janeiro,22458,9.1,0.0,1.2727272727272727
+1350,Universidade Federal do ABC,16706,22.2,0.01,0.5384615384615384
+1350,Universidade Federal da Bahia,45692,17.4,0.0,1.0408163265306123
+1350,Federal University of Espirito Santo,23475,13.4,0.01,1.173913043478261
+1350,Federal University of Goias,25511,13.7,0.01,1.0
+1350,Federal University of Lavras,14637,18.4,0.01,1.0833333333333333
+1350,Universidade Federal do Parana,33621,13.4,0.0,1.7027027027027026
+1350,Federal University of Rio Grande do Norte,37879,14.7,0.0,0.6666666666666666
+1350,Federal University of Santa Maria,27242,13.7,0.01,1.127659574468085
+1350,Federal University of Sao Carlos,20314,15.4,0.01,1.0
+1350,Federal University of Uberlandia,25748,13.6,0.01,1.0833333333333333
+1350,Federal University of Vicosa,16436,13.3,0.02,1.2222222222222223
+1350,Federico Santa Maria Technical University,22405,30.0,0.03,0.35135135135135137
+1350,University of Fort Hare,13626,38.4,0.02,1.3255813953488371
+1350,University of La Frontera,11053,22.0,0.01,1.0
+1350,Universite de Gabes,13152,12.8,0.01,3.0
+1350,Universitas Gadjah Mada,38089,8.1,0.04,1.2222222222222223
+1350,Gazi University,41358,20.6,0.03,1.0
+1350,University of Gda<U+0144>sk,19970,23.9,0.02,2.0303030303030303
+1350,Gda<U+0144>sk University of Technology,14816,19.9,0.05,0.6129032258064516
+1350,Gebze Technical University,8403,22.7,0.02,0.7543859649122807
+1350,Georgia Southern University,22885,18.8,0.03,1.4390243902439024
+1350,German University in Cairo,11937,14.9,0.01,0.7857142857142857
+1350,Gifu University,7216,7.5,0.05,0.6129032258064516
+1350,Government College University Lahore,11276,19.4,0.0,0.7241379310344828
+1350,Grand Valley State University,20972,15.3,0.01,1.564102564102564
+1350,Gunma University,6300,7.7,0.05,0.6129032258064516
+1350,Gyeongsang National University,12996,12.3,0.03,0.8867924528301887
+1350,Harbin Engineering University,29861,18.7,0.03,0.2987012987012987
+1350,Hasanuddin University,33601,14.6,0.01,1.5
+1350,The Hashemite University,16647,27.9,0.07,1.564102564102564
+1350,Universite Hassan II de Casablanca,124623,36.0,0.02,1.0833333333333333
+1350,Universite Polytechnique Hauts-de-France,13633,21.2,0.13,0.8518518518518519
+1350,Helwan University,127379,19.3,0.02,1.127659574468085
+1350,Hosei University,30300,39.2,0.04,0.6129032258064516
+1350,University of Hradec Kralove,6390,12.3,0.03,1.8571428571428572
+1350,Hungarian University of Agriculture and Life Sciences,10474,10.5,0.14,1.127659574468085
+1350,University of Ilorin,40901,34.8,0.01,0.9230769230769231
+1350,Immanuel Kant Baltic Federal University,7041,16.2,0.15,1.631578947368421
+1350,Indian Institute of Science Education and Research Bhopal,1724,14.1,0.0,0.47058823529411764
+1350,International Hellenic University,45009,49.0,0.01,1.173913043478261
+1350,IPB University,23580,6.7,0.03,1.380952380952381
+1350,Irkutsk National Research Technical University,9710,10.8,0.1,0.6129032258064516
+1350,University of Isfahan,16756,24.7,0.04,1.564102564102564
+1350,Istanbul Medipol University,24332,20.4,0.11,1.8571428571428572
+1350,Ivan Franko National University of Lviv,18357,10.0,0.01,1.8571428571428572
+1350,Jawaharlal Nehru Technological University Anantapur,5683,16.1,0.0,0.6129032258064516
+1350,Jeju National University,11741,17.6,0.04,1.0833333333333333
+1350,Jianghan University,19522,15.5,0.02,1.2222222222222223
+1350,Kagawa University,6369,9.9,0.02,0.7241379310344828
+1350,Kanazawa Medical University,1090,2.2,0.02,1.173913043478261
+1350,Kangwon National University,22104,22.0,0.03,0.6949152542372882
+1350,Karabuk University,47263,41.8,0.22,0.639344262295082
+1350,Kaunas University of Technology,8361,14.2,0.08,0.5151515151515151
+1350,Kazan National Research Technical University,7068,12.7,0.12,0.35135135135135137
+1350,Kazan National Research Technological University,13064,11.4,0.17,0.6949152542372882
+1350,Kazan State Medical University,5657,10.4,0.25,1.564102564102564
+1350,Kharazmi University,12607,19.0,0.04,1.173913043478261
+1350,Khon Kaen University,34434,18.1,0.02,1.4390243902439024
+1350,Khulna University of Engineering and Technology,5562,15.0,0.0,0.2987012987012987
+1350,King Mongkut's University of Technology North Bangkok,27055,22.8,0.0,0.7543859649122807
+1350,Kitasato University,8605,5.2,0.01,1.173913043478261
+1350,Kochi University of Technology,2593,20.3,0.02,0.3333333333333333
+1350,Universiti Kuala Lumpur,15858,12.3,0.03,0.6949152542372882
+1350,Kyushu Institute of Technology,5646,16.0,0.05,0.16279069767441862
+1350,L.N. Gumilyov Eurasian National University,19358,14.1,0.04,1.3255813953488371
+1350,Lobachevsky State University of Nizhni Novgorod,18767,9.1,0.12,1.0408163265306123
+1350,Londrina State University,21180,11.2,0.01,1.380952380952381
+1350,University of Lucknow,17291,39.2,0.0,1.0
+1350,"Lumiere University, Lyon 2",25186,47.2,0.18,2.125
+1350,University of Malaga,35888,13.8,0.06,1.173913043478261
+1350,Universiti Malaysia Kelantan,8787,20.1,0.03,2.4482758620689653
+1350,Universiti Malaysia Sarawak,13956,17.9,0.07,2.7037037037037037
+1350,University of Maribor,12403,14.3,0.1,1.127659574468085
+1350,Marmara University,62414,30.6,0.06,1.0408163265306123
+1350,Mendel University in Brno,8886,16.5,0.2,1.3255813953488371
+1350,Metropolitan Autonomous University,59709,21.1,0.01,1.0
+1350,Mie University,7125,8.4,0.04,0.6129032258064516
+1350,Ming Chi University of Technology,4514,19.5,0.02,0.35135135135135137
+1350,Mohammed V University of Rabat,88644,43.3,0.03,1.0833333333333333
+1350,University of Monastir,19203,9.6,0.02,2.3333333333333335
+1350,Moscow Aviation Institute,15493,12.8,0.12,0.3888888888888889
+1350,Multimedia University,7116,10.6,0.11,1.0408163265306123
+1350,University of Mumbai,13330,23.5,0.01,1.0408163265306123
+1350,University of Mysore,7970,21.4,0.1,0.7241379310344828
+1350,Nagaoka University of Technology,2189,11.1,0.12,0.1111111111111111
+1350,Nagasaki University,8869,6.7,0.06,0.639344262295082
+1350,Nagoya City University,4514,7.5,0.04,0.9230769230769231
+1350,National Chengchi University,12489,14.8,0.13,1.3255813953488371
+1350,National Chin-Yi University of Technology,7294,23.2,0.05,0.42857142857142855
+1350,National Chung Cheng University,8650,15.4,0.04,0.7857142857142857
+1350,National Chung Hsing University,15150,16.8,0.07,0.6949152542372882
+1350,National University of Distance Education,66141,56.9,0.05,1.173913043478261
+1350,National Dong Hwa University,10008,17.8,0.08,1.0833333333333333
+1350,National Research University of Electronic Technology,4736,9.3,0.07,0.3888888888888889
+1350,National Research Saratov State University,9826,9.3,0.11,1.380952380952381
+1350,National University of San Martin,16276,16.1,0.05,1.5
+1350,National Technical University Kharkiv Polytechnic Institute,11413,7.9,0.13,0.47058823529411764
+1350,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,21170,8.0,0.03,0.42857142857142855
+1350,Nicolaus Copernicus University in Toru<U+0144>,19684,13.0,0.04,2.0303030303030303
+1350,University of Nigeria Nsukka,43108,11.4,0.01,0.8518518518518519
+1350,Slovak University of Agriculture in Nitra,4870,11.3,0.03,1.0833333333333333
+1350,University of North Carolina Wilmington,15940,19.1,0.02,1.7777777777777777
+1350,North China Electric Power University,37861,19.1,0.03,0.5625
+1350,"University of the North, Colombia",13991,19.0,0.01,1.0408163265306123
+1350,Obafemi Awolowo University,29939,23.3,0.0,0.6949152542372882
+1350,Oles Honchar Dnipro National University,9522,12.1,0.01,1.5
+1350,Opole University of Technology,5604,14.5,0.07,0.4925373134328358
+1350,Oran 1 University,25775,19.2,0.01,1.9411764705882353
+1350,Osaka Metropolitan University,15827,11.5,0.05,0.5873015873015873
+1350,Osmania University,10814,23.7,0.03,0.47058823529411764
+1350,University of Ostrava,8492,16.4,0.11,2.225806451612903
+1350,University of Pannonia,5351,17.3,0.06,0.9607843137254902
+1350,Paris Nanterre University,34972,37.4,0.17,1.7027027027027026
+1350,University of Pau and Pays de l’Adour,14186,14.5,0.14,1.0833333333333333
+1350,Universitas Pendidikan Indonesia,32320,20.1,0.01,1.7777777777777777
+1350,Persian Gulf University,5070,21.3,0.03,1.2222222222222223
+1350,Pirogov Russian National Research Medical University,9607,5.9,0.05,2.8461538461538463
+1350,Pontifical Catholic University of Peru,25644,7.8,0.01,0.8518518518518519
+1350,Pontifical Catholic University of Valparaiso,17703,26.6,0.01,0.7543859649122807
+1350,Pontificia Universidade Catolica do Parana,12301,14.7,0.01,1.2222222222222223
+1350,Poznan University of Medical Sciences,7495,6.0,0.14,2.5714285714285716
+1350,Poznan University of Technology,14502,11.6,0.04,0.4925373134328358
+1350,University of Primorska,6089,16.6,0.15,3.1666666666666665
+1350,Prince of Songkla University,32779,13.0,0.02,2.3333333333333335
